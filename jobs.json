@@ -1,5 +1,131 @@
 [
   {
+    "id": "auto-20260801-1",
+    "title": "Marketing Specialist",
+    "company": "Gulf Petro Vision",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "mid",
+    "pay": "Not disclosed",
+    "source": "GulfTalent",
+    "url": "https://www.gulftalent.com/oman/jobs/marketing-specialist-435125",
+    "tags": [
+      "digital marketing",
+      "social media",
+      "campaigns",
+      "content"
+    ],
+    "desc": "Manage and optimize digital marketing campaigns across social media, email and website content; conduct market research."
+  },
+  {
+    "id": "auto-20260801-2",
+    "title": "Social Media Specialist Intern",
+    "company": "KB Luxury Group",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/jobs/4058520-social-media-specialist-intern-startup",
+    "tags": [
+      "social media",
+      "content creation",
+      "internship",
+      "branding"
+    ],
+    "desc": "Support content creation, posting and platform engagement for a luxury startup brand; entry-level remote internship."
+  },
+  {
+    "id": "auto-20260801-3",
+    "title": "Social Media Associate (Remote)",
+    "company": "Athletic",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/jobs/3314966-social-media-associate-remote",
+    "tags": [
+      "social media",
+      "branding",
+      "content",
+      "campaigns"
+    ],
+    "desc": "Grow and manage brand presence across social platforms for an apparel/fitness startup."
+  },
+  {
+    "id": "auto-20260801-4",
+    "title": "Social Media Associate (Remote)",
+    "company": "VC Lab",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/jobs/2421018-social-media-associate-remote",
+    "tags": [
+      "social media",
+      "content",
+      "branding",
+      "community"
+    ],
+    "desc": "Support social media content and community growth for a venture-building organization."
+  },
+  {
+    "id": "auto-20260801-5",
+    "title": "Marketing Associate (Content, Social Media)",
+    "company": "Startup (via Wellfound)",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/jobs/3252120-marketing-associate-content-social-media",
+    "tags": [
+      "content marketing",
+      "social media",
+      "branding",
+      "digital marketing"
+    ],
+    "desc": "Own content creation and social media execution as part of a small marketing team."
+  },
+  {
+    "id": "auto-20260801-6",
+    "title": "Creative Marketing Associate – Brand & Content",
+    "company": "Ekmiveda",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/jobs/3296067-creative-marketing-associate-brand-content",
+    "tags": [
+      "branding",
+      "content creation",
+      "design",
+      "social media"
+    ],
+    "desc": "Support brand and content initiatives — creative assets, copy and social content for a growing startup."
+  },
+  {
+    "id": "auto-20260801-7",
+    "title": "Social Media Specialist",
+    "company": "1021 Creative",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "Not disclosed",
+    "source": "Working Nomads",
+    "url": "https://www.workingnomads.com/jobs/social-media-specialist-1021-creative",
+    "tags": [
+      "social media",
+      "content",
+      "campaigns",
+      "branding"
+    ],
+    "desc": "Manage social media content and campaigns for creative agency clients."
+  },
+  {
     "id": "auto-20260731-1",
     "title": "Social Media Specialist, Content & Growth",
     "company": "Opción YO",
