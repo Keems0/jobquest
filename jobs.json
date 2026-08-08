@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20260808-1",
+    "title": "Influencer Marketing Internship",
+    "company": "Vocal Media",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/influencer-marketing-internship-4332801",
+    "tags": [
+      "influencer marketing",
+      "social media",
+      "content",
+      "internship"
+    ],
+    "desc": "Remote internship supporting influencer campaigns and creator-facing communications across Instagram, TikTok and Snapchat for a social-impact media company."
+  },
+  {
+    "id": "auto-20260808-2",
+    "title": "Content Creator & Social Media Specialist",
+    "company": "Dijital Team",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/content-creator-social-media-specialist-3836562",
+    "tags": [
+      "content creation",
+      "social media",
+      "photography",
+      "video editing"
+    ],
+    "desc": "Produce photography, video and social graphics and support social content strategy for a remote-first digital team."
+  },
+  {
+    "id": "auto-20260808-3",
+    "title": "Social Media Marketing Intern",
+    "company": "ReviewTailor",
+    "location": "Remote (Atlanta, GA based team)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Techstars Job Board",
+    "url": "https://jobs.techstars.com/companies/reviewtailor/jobs/71382977-social-media-marketing-intern",
+    "tags": [
+      "social media",
+      "tiktok",
+      "content creation",
+      "internship"
+    ],
+    "desc": "Create and manage TikTok and Instagram content for a Techstars-backed career-growth platform aimed at early-career professionals."
+  },
+  {
+    "id": "auto-20260808-4",
+    "title": "Junior Facebook Ads Specialist",
+    "company": "STERRY",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Working Nomads",
+    "url": "https://www.workingnomads.com/jobs/junior-facebook-ads-specialist-sterry-1535277",
+    "tags": [
+      "paid social",
+      "facebook ads",
+      "digital marketing",
+      "campaigns"
+    ],
+    "desc": "Assist with Facebook Ads Manager campaign setup, ad copy and optimization at a performance marketing agency; open to internship-level experience."
+  },
+  {
+    "id": "auto-20260808-5",
+    "title": "Brand & Content Coordinator (Remote, Part-Time)",
+    "company": "Lavendo",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Jobboardly",
+    "url": "https://travellivelearn-remotework-list.jobboardly.com/jobs/brand-content-coordinator-remote-part-time-60743f1e",
+    "tags": [
+      "content creation",
+      "branding",
+      "copywriting",
+      "linkedin"
+    ],
+    "desc": "Turn founder notes into polished LinkedIn posts, blog content and branded visuals for a boutique recruiting agency's content engine; part-time remote."
+  },
+  {
     "id": "auto-20260807-1",
     "title": "Social Media Coordinator",
     "company": "Resourceful Talent Group",
@@ -480,93 +570,6 @@
       "digital marketing"
     ],
     "desc": "Remote social media specialist owning content and growth for an online mental health and wellbeing company."
-  },
-  {
-    "id": "auto-20260731-2",
-    "title": "Junior Campaign Manager",
-    "company": "Canonical",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Working Nomads",
-    "url": "https://www.workingnomads.com/jobs/junior-campaign-manager-canonical-1492592",
-    "tags": [
-      "campaign management",
-      "digital marketing",
-      "performance marketing"
-    ],
-    "desc": "Support performance marketing and paid campaign strategy in a fully remote junior role at Canonical (Ubuntu)."
-  },
-  {
-    "id": "auto-20260731-3",
-    "title": "Social Media Specialist",
-    "company": "FyerX",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remote Rocketship",
-    "url": "https://www.remoterocketship.com/company/fyerx/jobs/social-media-specialist-worldwide-remote/",
-    "tags": [
-      "social media",
-      "content creation",
-      "digital marketing"
-    ],
-    "desc": "Plan and execute social content and channel growth for clients of a remote-first marketing agency."
-  },
-  {
-    "id": "auto-20260731-4",
-    "title": "Social Media Associate",
-    "company": "BTSE",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Wellfound",
-    "url": "https://wellfound.com/jobs/3382650-social-media-associate",
-    "tags": [
-      "social media",
-      "content",
-      "fintech",
-      "branding"
-    ],
-    "desc": "Develop and implement social media strategy and campaigns to expand brand presence for a fintech/crypto exchange."
-  },
-  {
-    "id": "auto-20260731-5",
-    "title": "Digital Marketing / Social Media Intern",
-    "company": "Jetzy",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Wellfound",
-    "url": "https://wellfound.com/jobs/1355172-digital-marketing-social-media-trainee",
-    "tags": [
-      "internship",
-      "digital marketing",
-      "social media"
-    ],
-    "desc": "Help run digital and social media campaigns for a social travel app, remote internship suited to early-career marketers."
-  },
-  {
-    "id": "auto-20260730-1",
-    "title": "Digital Marketing Executive",
-    "company": "Smart Energy Solutions",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "mid",
-    "pay": "Not disclosed",
-    "source": "GulfTalent",
-    "url": "https://www.gulftalent.com/oman/jobs/digital-marketing-executive-376848",
-    "tags": [
-      "digital marketing",
-      "content",
-      "seo",
-      "campaigns"
-    ],
-    "desc": "Manage digital marketing campaigns and content generation for an energy-efficiency solutions provider in Muscat."
   },
   {
     "id": "s1",
