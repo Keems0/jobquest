@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20260809-1",
+    "title": "Performance Marketing Coordinator",
+    "company": "Levanta",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Greenhouse",
+    "url": "https://job-boards.greenhouse.io/levanta/jobs/5253443008",
+    "tags": [
+      "performance marketing",
+      "affiliate marketing",
+      "analytics",
+      "email marketing"
+    ],
+    "desc": "Entry-level role learning analytics, campaign management and email marketing at an affiliate marketing platform for Amazon and Shopify sellers."
+  },
+  {
+    "id": "auto-20260809-2",
+    "title": "Digital Marketing & Branding Specialist",
+    "company": "TekSynap",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-branding-specialist-3850962",
+    "tags": [
+      "branding",
+      "content creation",
+      "social media",
+      "video editing"
+    ],
+    "desc": "Create and publish content across LinkedIn, Instagram, Facebook and YouTube, including video editing for recruiting and brand storytelling."
+  },
+  {
+    "id": "auto-20260809-3",
+    "title": "Junior Influencer Marketing Coordinator",
+    "company": "eJam",
+    "location": "Remote (LATAM)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/influencer-marketing-coordinator-4623493",
+    "tags": [
+      "influencer marketing",
+      "creator economy",
+      "social media",
+      "dtc"
+    ],
+    "desc": "Support a DTC snack brand's creator program: outreach, briefs, shipment coordination, post scheduling and weekly performance tracking."
+  },
+  {
+    "id": "auto-20260809-4",
+    "title": "Partnerships + Marketing Coordinator",
+    "company": "Leigh and Co.",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/partnerships-marketing-coordinator-4345571",
+    "tags": [
+      "partnerships",
+      "brand marketing",
+      "content",
+      "social media"
+    ],
+    "desc": "Support brand partnerships and marketing execution across search, social and online platforms for a remote-first company."
+  },
+  {
+    "id": "auto-20260809-5",
+    "title": "Content & Social Media Specialist",
+    "company": "Workana",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/content-social-media-specialist-4434721",
+    "tags": [
+      "content writing",
+      "social media",
+      "editing",
+      "marketing support"
+    ],
+    "desc": "Support a U.S. university's marketing team with social media, website content, editing and campaign support."
+  },
+  {
     "id": "auto-20260808-1",
     "title": "Influencer Marketing Internship",
     "company": "Vocal Media",
@@ -480,96 +570,6 @@
       "campaigns"
     ],
     "desc": "Grow and manage brand presence across social platforms for an apparel/fitness startup."
-  },
-  {
-    "id": "auto-20260801-4",
-    "title": "Social Media Associate (Remote)",
-    "company": "VC Lab",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Wellfound",
-    "url": "https://wellfound.com/jobs/2421018-social-media-associate-remote",
-    "tags": [
-      "social media",
-      "content",
-      "branding",
-      "community"
-    ],
-    "desc": "Support social media content and community growth for a venture-building organization."
-  },
-  {
-    "id": "auto-20260801-5",
-    "title": "Marketing Associate (Content, Social Media)",
-    "company": "Startup (via Wellfound)",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Wellfound",
-    "url": "https://wellfound.com/jobs/3252120-marketing-associate-content-social-media",
-    "tags": [
-      "content marketing",
-      "social media",
-      "branding",
-      "digital marketing"
-    ],
-    "desc": "Own content creation and social media execution as part of a small marketing team."
-  },
-  {
-    "id": "auto-20260801-6",
-    "title": "Creative Marketing Associate – Brand & Content",
-    "company": "Ekmiveda",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Wellfound",
-    "url": "https://wellfound.com/jobs/3296067-creative-marketing-associate-brand-content",
-    "tags": [
-      "branding",
-      "content creation",
-      "design",
-      "social media"
-    ],
-    "desc": "Support brand and content initiatives — creative assets, copy and social content for a growing startup."
-  },
-  {
-    "id": "auto-20260801-7",
-    "title": "Social Media Specialist",
-    "company": "1021 Creative",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "mid",
-    "pay": "Not disclosed",
-    "source": "Working Nomads",
-    "url": "https://www.workingnomads.com/jobs/social-media-specialist-1021-creative",
-    "tags": [
-      "social media",
-      "content",
-      "campaigns",
-      "branding"
-    ],
-    "desc": "Manage social media content and campaigns for creative agency clients."
-  },
-  {
-    "id": "auto-20260731-1",
-    "title": "Social Media Specialist, Content & Growth",
-    "company": "Opción YO",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remote Rocketship",
-    "url": "https://www.remoterocketship.com/us/company/opcion-yo/jobs/social-media-specialist-content-growth-worldwide-remote/",
-    "tags": [
-      "social media",
-      "content",
-      "growth",
-      "digital marketing"
-    ],
-    "desc": "Remote social media specialist owning content and growth for an online mental health and wellbeing company."
   },
   {
     "id": "s1",
