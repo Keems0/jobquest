@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-20260813-1",
+    "title": "Digital Marketing & Social Media Coordinator",
+    "company": "Virtual Coworker",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-social-media-coordinator-5517845",
+    "tags": [
+      "social media",
+      "digital marketing",
+      "branding",
+      "canva"
+    ],
+    "desc": "Coordinate marketing activities across brands, manage social channels, and maintain consistent branding across digital content."
+  },
+  {
+    "id": "auto-20260813-2",
+    "title": "Junior Copywriter",
+    "company": "Remote Recruitment",
+    "location": "Remote (South Africa)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "R10,000–R16,000/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/writing/junior-copywriter-4423633",
+    "tags": [
+      "copywriting",
+      "content",
+      "entry-level"
+    ],
+    "desc": "Entry-level copywriter crafting content for UK clients; no prior professional experience required, full training provided."
+  },
+  {
+    "id": "auto-20260813-3",
+    "title": "Digital Marketing Executive",
+    "company": "Crystal Flash LLC",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "entry",
+    "pay": "$500–$1,000/month",
+    "source": "Bayt",
+    "url": "https://www.bayt.com/en/oman/jobs/digital-marketing-executive-5451726/",
+    "tags": [
+      "digital marketing",
+      "seo",
+      "social media",
+      "website"
+    ],
+    "desc": "Manage and optimize digital campaigns across website, social media, email, and search for a Muscat-based company."
+  },
+  {
+    "id": "auto-20260813-4",
+    "title": "Global Marketing & Social Media Coordinator",
+    "company": "Crimson Education",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Crimson Education Careers",
+    "url": "https://jobs.crimsoneducation.org/jobs/6113509-global-marketing-social-media-coordinator",
+    "tags": [
+      "social media",
+      "digital marketing",
+      "facebook ads",
+      "google ads"
+    ],
+    "desc": "Coordinate global marketing and social media campaigns, including Facebook and Google Ads execution, for an ed-tech company."
+  },
+  {
     "id": "auto-20260812-1",
     "title": "Social Media & Content Manager",
     "company": "Remote World",
@@ -500,77 +571,6 @@
       "video editing"
     ],
     "desc": "Produce photography, video and social graphics and support social content strategy for a remote-first digital team."
-  },
-  {
-    "id": "auto-20260808-3",
-    "title": "Social Media Marketing Intern",
-    "company": "ReviewTailor",
-    "location": "Remote (Atlanta, GA based team)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Techstars Job Board",
-    "url": "https://jobs.techstars.com/companies/reviewtailor/jobs/71382977-social-media-marketing-intern",
-    "tags": [
-      "social media",
-      "tiktok",
-      "content creation",
-      "internship"
-    ],
-    "desc": "Create and manage TikTok and Instagram content for a Techstars-backed career-growth platform aimed at early-career professionals."
-  },
-  {
-    "id": "auto-20260808-4",
-    "title": "Junior Facebook Ads Specialist",
-    "company": "STERRY",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Working Nomads",
-    "url": "https://www.workingnomads.com/jobs/junior-facebook-ads-specialist-sterry-1535277",
-    "tags": [
-      "paid social",
-      "facebook ads",
-      "digital marketing",
-      "campaigns"
-    ],
-    "desc": "Assist with Facebook Ads Manager campaign setup, ad copy and optimization at a performance marketing agency; open to internship-level experience."
-  },
-  {
-    "id": "auto-20260808-5",
-    "title": "Brand & Content Coordinator (Remote, Part-Time)",
-    "company": "Lavendo",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Jobboardly",
-    "url": "https://travellivelearn-remotework-list.jobboardly.com/jobs/brand-content-coordinator-remote-part-time-60743f1e",
-    "tags": [
-      "content creation",
-      "branding",
-      "copywriting",
-      "linkedin"
-    ],
-    "desc": "Turn founder notes into polished LinkedIn posts, blog content and branded visuals for a boutique recruiting agency's content engine; part-time remote."
-  },
-  {
-    "id": "auto-20260807-1",
-    "title": "Social Media Coordinator",
-    "company": "Resourceful Talent Group",
-    "location": "Remote (US EST hours)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Recruitee",
-    "url": "https://resourcefultalentgroup.recruitee.com/o/social-media-coordinator",
-    "tags": [
-      "social media",
-      "content",
-      "remote"
-    ],
-    "desc": "Fully remote social media coordinator managing Instagram, Facebook and TikTok content for a dance academy client."
   },
   {
     "id": "s1",
