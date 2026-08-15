@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-20260815-1",
+    "title": "Digital Marketing Specialist",
+    "company": "SERO Mental Health",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$65,000-$75,000/yr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-specialist-5498409",
+    "tags": [
+      "digital marketing",
+      "email marketing",
+      "social media",
+      "content creation"
+    ],
+    "desc": "Manage email campaigns, social channels and written content for a mental-health and substance-use treatment brand; remote US role."
+  },
+  {
+    "id": "auto-20260815-2",
+    "title": "Digital Marketing Specialist",
+    "company": "The Suite",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$65,000-$80,000/yr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-specialist-5369575",
+    "tags": [
+      "organic social",
+      "content marketing",
+      "digital pr",
+      "seo"
+    ],
+    "desc": "Own organic LinkedIn presence, blog/web content and digital PR pitching; explicitly framed as a step-up role for a motivated early-career marketer."
+  },
+  {
+    "id": "auto-20260815-3",
+    "title": "Digital Marketing Executive",
+    "company": "Smart Energy Solutions",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "GulfTalent",
+    "url": "https://www.gulftalent.com/oman/jobs/digital-marketing-executive-376848",
+    "tags": [
+      "digital marketing",
+      "content generation",
+      "social media",
+      "html"
+    ],
+    "desc": "Handle day-to-day digital marketing activities — content generation, social channels, basic HTML/web publishing — for a Muscat-based energy efficiency company."
+  },
+  {
+    "id": "auto-20260815-4",
+    "title": "Marketing Specialist",
+    "company": "Gulf Petro Vision",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "GulfTalent",
+    "url": "https://www.gulftalent.com/oman/jobs/marketing-specialist-435125",
+    "tags": [
+      "digital marketing",
+      "social media",
+      "market research",
+      "campaigns"
+    ],
+    "desc": "Support market research, promotional materials and digital campaigns across social, email and website content for a Muscat petrochem trading company."
+  },
+  {
     "id": "auto-20260814-1",
     "title": "Digital Marketing Coordinator",
     "company": "PlanITROI",
@@ -499,78 +571,6 @@
       "campaign tracking"
     ],
     "desc": "Entry-level role for a social-media-native supporting client communications, content execution and campaign performance tracking at a TikTok-focused agency."
-  },
-  {
-    "id": "auto-20260810-6",
-    "title": "Digital Marketing Coordinator",
-    "company": "D2B",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Up to PHP 90,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-coordinator-4223777",
-    "tags": [
-      "digital marketing",
-      "crm",
-      "email marketing",
-      "wordpress"
-    ],
-    "desc": "Manage WordPress site content and SEO, support CRM activity, email marketing campaigns and social media execution."
-  },
-  {
-    "id": "auto-20260810-7",
-    "title": "Creative & Social Media Coordinator",
-    "company": "D2B",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Up to PHP 70,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/creative-social-media-coordinator-4500848",
-    "tags": [
-      "social media",
-      "graphic design",
-      "content creation",
-      "branding"
-    ],
-    "desc": "Create scroll-stopping visuals and social content for food and lifestyle brands as part of a remote creative team."
-  },
-  {
-    "id": "auto-20260809-4",
-    "title": "Partnerships + Marketing Coordinator",
-    "company": "Leigh and Co.",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/partnerships-marketing-coordinator-4345571",
-    "tags": [
-      "partnerships",
-      "brand marketing",
-      "content",
-      "social media"
-    ],
-    "desc": "Support brand partnerships and marketing execution across search, social and online platforms for a remote-first company."
-  },
-  {
-    "id": "auto-20260809-5",
-    "title": "Content & Social Media Specialist",
-    "company": "Workana",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/content-social-media-specialist-4434721",
-    "tags": [
-      "content writing",
-      "social media",
-      "editing",
-      "marketing support"
-    ],
-    "desc": "Support a U.S. university's marketing team with social media, website content, editing and campaign support."
   },
   {
     "id": "s1",
