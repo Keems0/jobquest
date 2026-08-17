@@ -1,5 +1,106 @@
 [
   {
+    "id": "auto-20260817-1",
+    "title": "Influencer Marketing Internship",
+    "company": "Brilliant",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/influencer-marketing-internship-5373950",
+    "tags": [
+      "influencer marketing",
+      "internship",
+      "social media"
+    ],
+    "desc": "Entry-level remote internship supporting influencer marketing campaigns and creator outreach."
+  },
+  {
+    "id": "auto-20260817-2",
+    "title": "Influencer Marketing Coordinator",
+    "company": "eJam",
+    "location": "Remote (LATAM)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/influencer-marketing-coordinator-4623493",
+    "tags": [
+      "influencer marketing",
+      "coordinator",
+      "social media"
+    ],
+    "desc": "Junior remote coordinator role managing influencer marketing campaigns for a LATAM-based team."
+  },
+  {
+    "id": "auto-20260817-3",
+    "title": "Marketing Associate",
+    "company": "AvantStay",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/marketing-associate-4458445",
+    "tags": [
+      "marketing",
+      "social media",
+      "brand"
+    ],
+    "desc": "Supports social media strategy and execution across Instagram and TikTok while maintaining brand consistency."
+  },
+  {
+    "id": "auto-20260817-4",
+    "title": "Content Marketing Associate",
+    "company": "Transcend Inc.",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/content-marketing-associate-4470922",
+    "tags": [
+      "content marketing",
+      "brand",
+      "writing"
+    ],
+    "desc": "Produces strategically aligned content that builds brand authority and supports demand generation."
+  },
+  {
+    "id": "auto-20260817-5",
+    "title": "Junior Marketing Coordinator",
+    "company": "Weekday AI",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/junior-marketing-coordinator-4224778",
+    "tags": [
+      "marketing coordinator",
+      "coordination"
+    ],
+    "desc": "Coordinates marketing activities between internal teams, external vendors, and stakeholders."
+  },
+  {
+    "id": "auto-20260817-6",
+    "title": "SEO & GEO Associate",
+    "company": "Seer Interactive",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "$65,000 - $73,000/year",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/seo-geo-associate-4037344",
+    "tags": [
+      "seo",
+      "content",
+      "digital marketing"
+    ],
+    "desc": "Supports SEO and generative-engine-optimization strategy and execution for client marketing campaigns."
+  },
+  {
     "id": "auto-20260816-1",
     "title": "Junior Copywriter",
     "company": "Starface World",
@@ -457,112 +558,6 @@
       "community management"
     ],
     "desc": "Support social accounts for film, TV and studio brand clients: content calendars, copywriting and community engagement at a social-first agency."
-  },
-  {
-    "id": "auto-20260812-6",
-    "title": "Remote Digital Marketing Specialist",
-    "company": "Wing Assistant",
-    "location": "Remote (Philippines)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Lever",
-    "url": "https://jobs.lever.co/getwingapp/ad290b72-af77-463d-86ba-970aae48c602",
-    "tags": [
-      "digital marketing",
-      "social media",
-      "campaigns"
-    ],
-    "desc": "Remote digital marketing specialist role for a staffing platform, open to marketing/business grads or certificate holders."
-  },
-  {
-    "id": "auto-20260812-7",
-    "title": "Copywriter",
-    "company": "Coalition Technologies",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$20,000-$35,000/yr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote-jobs/writing/copywriter-1749306",
-    "tags": [
-      "copywriting",
-      "content writing",
-      "seo",
-      "marketing"
-    ],
-    "desc": "Write website copy, blog content and marketing materials for digital agency clients in a fully remote role."
-  },
-  {
-    "id": "auto-20260812-8",
-    "title": "Junior Brand Designer",
-    "company": "Peerspace",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Lever",
-    "url": "https://jobs.lever.co/peerspace/1cd417d3-6988-4668-b78d-46ffb70ae35b",
-    "tags": [
-      "branding",
-      "graphic design",
-      "marketing design"
-    ],
-    "desc": "Execute on-brand design deliverables across marketing initiatives for a remote-first marketplace company."
-  },
-  {
-    "id": "auto-20260811-1",
-    "title": "Marketing Coordinator",
-    "company": "Dominion National",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$48,000-$91,070/yr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-coordinator-4597796",
-    "tags": [
-      "marketing coordinator",
-      "email marketing",
-      "social media graphics",
-      "print production"
-    ],
-    "desc": "Support marketing outreach, email campaigns, social media graphics and print/vendor coordination for a dental & vision insurance provider."
-  },
-  {
-    "id": "auto-20260811-2",
-    "title": "Marketing Coordinator",
-    "company": "Newfire Global Partners",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$55,000-$65,000/yr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-coordinator-5402756",
-    "tags": [
-      "marketing coordinator",
-      "social media",
-      "hubspot",
-      "campaign execution"
-    ],
-    "desc": "Execute revenue-generating campaigns: social media scheduling, on-brand visuals with Canva AI, and event/webinar logistics support."
-  },
-  {
-    "id": "auto-20260811-3",
-    "title": "Social Media Coordinator",
-    "company": "Somewhere",
-    "location": "Remote (Philippines)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$1,500-$1,800/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-coordinator-4632341",
-    "tags": [
-      "social media",
-      "content calendar",
-      "copywriting",
-      "community management"
-    ],
-    "desc": "Build cohesive content calendars, write copy and manage posting cadence across client social accounts."
   },
   {
     "id": "s1",
