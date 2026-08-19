@@ -1,5 +1,94 @@
 [
   {
+    "id": "auto-20260819-1",
+    "title": "Marketing Operations Associate",
+    "company": "Deckers Brands (HOKA)",
+    "location": "Remote (USA)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "$28.37–$35.43/hr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/marketing-operations-associate-4939591",
+    "tags": [
+      "marketing operations",
+      "brand marketing",
+      "project coordination"
+    ],
+    "desc": "Supports HOKA's Integrated Marketing team with day-to-day marketing operations and project coordination; 0-2 years experience welcomed."
+  },
+  {
+    "id": "auto-20260819-2",
+    "title": "Partner Marketing Coordinator",
+    "company": "Centric Software",
+    "location": "Remote (EMEA)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/partner-marketing-coordinator-5512581",
+    "tags": [
+      "partner marketing",
+      "demand generation",
+      "campaigns",
+      "events"
+    ],
+    "desc": "Hands-on junior marketer role coordinating partner marketing, campaigns and events for Centric Software's EMEA Home & Lifestyle team."
+  },
+  {
+    "id": "auto-20260819-3",
+    "title": "Social Media Marketing Intern",
+    "company": "One Impression",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Lever (One Impression)",
+    "url": "https://jobs.lever.co/oneimpression/8c182297-fd4e-4a58-bedb-2aa0cad98fc5",
+    "tags": [
+      "social media",
+      "content creation",
+      "influencer marketing",
+      "internship"
+    ],
+    "desc": "Entry-level remote internship creating reels, shorts, posts and captions for an influencer-marketing platform active in 12+ countries."
+  },
+  {
+    "id": "auto-20260819-4",
+    "title": "Digital Marketing Coordinator",
+    "company": "Endless Access LLC",
+    "location": "Remote (LATAM / India / Middle Africa)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "$34,000–$38,000/yr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/marketing-coordinator-4100995",
+    "tags": [
+      "digital marketing",
+      "webflow",
+      "email marketing",
+      "website management"
+    ],
+    "desc": "Manages website (Webflow), email campaigns and cross-functional digital marketing coordination; English/Arabic fluency a plus."
+  },
+  {
+    "id": "auto-20260819-5",
+    "title": "Social Media Specialist",
+    "company": "Hire Overseas",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-specialist-5312868",
+    "tags": [
+      "social media",
+      "content creation",
+      "short-form video",
+      "community management"
+    ],
+    "desc": "Scripts, edits and posts short-form content for a digital health startup, cross-posting to TikTok, YouTube and Facebook; portfolio-based hiring."
+  },
+  {
     "id": "auto-20260818-1",
     "title": "Junior Marketing & Social Media Designer",
     "company": "StudySmarter",
@@ -466,95 +555,6 @@
       "ai tools"
     ],
     "desc": "Junior-to-mid copywriter writing social captions, product descriptions, email campaigns and video scripts, using AI tools daily alongside the creative team."
-  },
-  {
-    "id": "auto-20260814-5",
-    "title": "Junior Copywriter",
-    "company": "AP MAX INC",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/writing/junior-copywriter-4353635",
-    "tags": [
-      "copywriting",
-      "paid ads",
-      "email marketing",
-      "landing pages"
-    ],
-    "desc": "Write paid-ad, email and landing-page copy focused on clicks and conversions, with a clear growth path to mid-level copywriter."
-  },
-  {
-    "id": "auto-20260813-1",
-    "title": "Digital Marketing & Social Media Coordinator",
-    "company": "Virtual Coworker",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-social-media-coordinator-5517845",
-    "tags": [
-      "social media",
-      "digital marketing",
-      "branding",
-      "canva"
-    ],
-    "desc": "Coordinate marketing activities across brands, manage social channels, and maintain consistent branding across digital content."
-  },
-  {
-    "id": "auto-20260813-2",
-    "title": "Junior Copywriter",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "R10,000–R16,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/writing/junior-copywriter-4423633",
-    "tags": [
-      "copywriting",
-      "content",
-      "entry-level"
-    ],
-    "desc": "Entry-level copywriter crafting content for UK clients; no prior professional experience required, full training provided."
-  },
-  {
-    "id": "auto-20260813-3",
-    "title": "Digital Marketing Executive",
-    "company": "Crystal Flash LLC",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "entry",
-    "pay": "$500–$1,000/month",
-    "source": "Bayt",
-    "url": "https://www.bayt.com/en/oman/jobs/digital-marketing-executive-5451726/",
-    "tags": [
-      "digital marketing",
-      "seo",
-      "social media",
-      "website"
-    ],
-    "desc": "Manage and optimize digital campaigns across website, social media, email, and search for a Muscat-based company."
-  },
-  {
-    "id": "auto-20260813-4",
-    "title": "Global Marketing & Social Media Coordinator",
-    "company": "Crimson Education",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Crimson Education Careers",
-    "url": "https://jobs.crimsoneducation.org/jobs/6113509-global-marketing-social-media-coordinator",
-    "tags": [
-      "social media",
-      "digital marketing",
-      "facebook ads",
-      "google ads"
-    ],
-    "desc": "Coordinate global marketing and social media campaigns, including Facebook and Google Ads execution, for an ed-tech company."
   },
   {
     "id": "s1",
