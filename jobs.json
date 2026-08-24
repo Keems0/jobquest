@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20260824-1",
+    "title": "Junior Marketing & Social Media Designer",
+    "company": "StudySmarter",
+    "location": "Remote (Germany)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/design/junior-marketing-social-media-designer-3744702",
+    "tags": [
+      "social media design",
+      "paid social",
+      "canva",
+      "short-form video"
+    ],
+    "desc": "Designs paid and organic social media content (TikTok, Instagram, Google Ads) for a global edtech brand; German + English fluency required."
+  },
+  {
+    "id": "auto-20260824-2",
+    "title": "Social Media & Digital Marketing Coordinator",
+    "company": "Bamboo Works",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-digital-marketing-coordinator-3775864",
+    "tags": [
+      "social media",
+      "content creation",
+      "seo",
+      "instagram"
+    ],
+    "desc": "Hands-on role managing Instagram and Facebook content plus on-page SEO for three lifestyle/wellness brands."
+  },
+  {
+    "id": "auto-20260824-3",
+    "title": "Media Strategy Coordinator",
+    "company": "Native Touch",
+    "location": "Remote (EST)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/media-strategy-coordinator-5583627",
+    "tags": [
+      "media strategy",
+      "campaign operations",
+      "digital media",
+      "salesforce"
+    ],
+    "desc": "Supports media strategy behind campaign planning, audience research, reporting and documentation; 1-3 yrs experience in digital media or advertising."
+  },
+  {
+    "id": "auto-20260824-4",
+    "title": "Junior Marketing Coordinator",
+    "company": "Weekday AI",
+    "location": "Remote (India)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "INR 300,000-420,000/yr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/junior-marketing-coordinator-4224778",
+    "tags": [
+      "content coordination",
+      "canva",
+      "video editing",
+      "campaign support"
+    ],
+    "desc": "Coordinates high-volume content and marketing campaigns end-to-end, with hands-on writing, Canva design and basic video editing exposure."
+  },
+  {
+    "id": "auto-20260824-5",
+    "title": "Influencer Marketing Coordinator (Entry-Level)",
+    "company": "eJam",
+    "location": "Remote (LATAM)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/influencer-marketing-coordinator-4623493",
+    "tags": [
+      "influencer marketing",
+      "creator economy",
+      "social media",
+      "dtc ecommerce"
+    ],
+    "desc": "Entry-level role (no experience needed) coordinating influencer posts end-to-end -- shipments, tracking links, contracts and payments -- for a DTC snacks brand."
+  },
+  {
     "id": "auto-20260823-1",
     "title": "Marketing Coordinator",
     "company": "New American Funding",
@@ -481,96 +571,6 @@
       "project coordination"
     ],
     "desc": "Supports HOKA's Integrated Marketing team with day-to-day marketing operations and project coordination; 0-2 years experience welcomed."
-  },
-  {
-    "id": "auto-20260819-2",
-    "title": "Partner Marketing Coordinator",
-    "company": "Centric Software",
-    "location": "Remote (EMEA)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/partner-marketing-coordinator-5512581",
-    "tags": [
-      "partner marketing",
-      "demand generation",
-      "campaigns",
-      "events"
-    ],
-    "desc": "Hands-on junior marketer role coordinating partner marketing, campaigns and events for Centric Software's EMEA Home & Lifestyle team."
-  },
-  {
-    "id": "auto-20260819-3",
-    "title": "Social Media Marketing Intern",
-    "company": "One Impression",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Lever (One Impression)",
-    "url": "https://jobs.lever.co/oneimpression/8c182297-fd4e-4a58-bedb-2aa0cad98fc5",
-    "tags": [
-      "social media",
-      "content creation",
-      "influencer marketing",
-      "internship"
-    ],
-    "desc": "Entry-level remote internship creating reels, shorts, posts and captions for an influencer-marketing platform active in 12+ countries."
-  },
-  {
-    "id": "auto-20260819-4",
-    "title": "Digital Marketing Coordinator",
-    "company": "Endless Access LLC",
-    "location": "Remote (LATAM / India / Middle Africa)",
-    "mode": "remote",
-    "seniority": "mid",
-    "pay": "$34,000–$38,000/yr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-coordinator-4100995",
-    "tags": [
-      "digital marketing",
-      "webflow",
-      "email marketing",
-      "website management"
-    ],
-    "desc": "Manages website (Webflow), email campaigns and cross-functional digital marketing coordination; English/Arabic fluency a plus."
-  },
-  {
-    "id": "auto-20260819-5",
-    "title": "Social Media Specialist",
-    "company": "Hire Overseas",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-specialist-5312868",
-    "tags": [
-      "social media",
-      "content creation",
-      "short-form video",
-      "community management"
-    ],
-    "desc": "Scripts, edits and posts short-form content for a digital health startup, cross-posting to TikTok, YouTube and Facebook; portfolio-based hiring."
-  },
-  {
-    "id": "auto-20260818-5",
-    "title": "Digital Marketing Intern, Social Media and AI",
-    "company": "Top Agent",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-intern-social-media-and-ai-4134709",
-    "tags": [
-      "digital marketing",
-      "internship",
-      "social media",
-      "ai tools"
-    ],
-    "desc": "Internship blending digital marketing execution with social media and AI tools to support client generation and revenue growth."
   },
   {
     "id": "s1",
