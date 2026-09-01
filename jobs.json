@@ -1,5 +1,131 @@
 [
   {
+    "id": "auto-20260901-1",
+    "title": "Marketing Associate",
+    "company": "WIN Home Inspection",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/marketing-associate-5576147",
+    "tags": [
+      "digital marketing",
+      "content",
+      "campaigns",
+      "franchise marketing"
+    ],
+    "desc": "Supports franchisee online presence and marketing campaign execution for a home inspection franchise network; open to 2+ yrs marketing experience."
+  },
+  {
+    "id": "auto-20260901-2",
+    "title": "Partner Marketing Coordinator",
+    "company": "Centric Software",
+    "location": "Remote (EMEA)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/partner-marketing-coordinator-5512581",
+    "tags": [
+      "partner marketing",
+      "b2b",
+      "campaigns",
+      "demand generation"
+    ],
+    "desc": "Builds partner relationships and coordinates joint marketing campaigns and events for a B2B SaaS company's EMEA Home & Lifestyle team; 2+ yrs B2B marketing experience."
+  },
+  {
+    "id": "auto-20260901-3",
+    "title": "Junior Marketing & Branding Officer",
+    "company": "Jobs for Humanity",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Himalayas",
+    "url": "https://himalayas.app/companies/jobs-for-humanity/jobs/junior-marketing-branding-officer",
+    "tags": [
+      "branding",
+      "content creation",
+      "social media",
+      "junior"
+    ],
+    "desc": "Entry-friendly role drafting social and blog content, supporting brand consistency, campaign execution and basic market research."
+  },
+  {
+    "id": "auto-20260901-4",
+    "title": "Junior Digital Marketing Account Manager",
+    "company": "DigiShopGirl Media",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Wellfound",
+    "url": "https://wellfound.com/jobs/1387331-junior-digital-marketing-account-manager",
+    "tags": [
+      "digital advertising",
+      "google ads",
+      "facebook ads",
+      "account management"
+    ],
+    "desc": "Manages client ad campaigns across Google, Facebook, Pinterest and Amazon while optimizing ROI for a digital marketing agency."
+  },
+  {
+    "id": "auto-20260901-5",
+    "title": "Social Media Associate",
+    "company": "Paired",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Himalayas",
+    "url": "https://himalayas.app/companies/paired-so/jobs/social-media-associate-remote-worldwide",
+    "tags": [
+      "social media",
+      "content calendar",
+      "copywriting",
+      "community management"
+    ],
+    "desc": "Builds a weekly content calendar, writes captions, coordinates visuals and handles light community management for a remote staffing agency's clients."
+  },
+  {
+    "id": "auto-20260901-6",
+    "title": "Social Media Coordinator",
+    "company": "Instacart",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Himalayas",
+    "url": "https://himalayas.app/companies/instacart/jobs/social-media-coordinator",
+    "tags": [
+      "social media",
+      "community management",
+      "scheduling",
+      "reporting"
+    ],
+    "desc": "Keeps the social content engine running via scheduling, community engagement and performance reporting for Instacart's brand channels."
+  },
+  {
+    "id": "auto-20260901-7",
+    "title": "Junior Copywriter, Social + Community",
+    "company": "Starface World",
+    "location": "Remote (US)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "$60K - $70K",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/writing/junior-copywriter-4795929",
+    "tags": [
+      "copywriting",
+      "social media",
+      "community management",
+      "brand voice"
+    ],
+    "desc": "Writes on-brand social copy and owns daily community management across Instagram, TikTok and Facebook for a beauty brand; 2-3 yrs experience."
+  },
+  {
     "id": "auto-20260831-1",
     "title": "Influencer Marketing Coordinator",
     "company": "eJam",
@@ -450,131 +576,6 @@
       "canva"
     ],
     "desc": "Manages influencer/creator relationships and content calendars across studio locations for a national medspa brand; 1-3 yrs experience in social, content or influencer marketing."
-  },
-  {
-    "id": "auto-20260827-2",
-    "title": "Digital Marketing & Social Media Coordinator",
-    "company": "Virtual Coworker",
-    "location": "Remote (Australia)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-social-media-coordinator-5517845",
-    "tags": [
-      "social media",
-      "digital marketing",
-      "content creation",
-      "email marketing"
-    ],
-    "desc": "Manages and schedules content across Facebook, Instagram, LinkedIn and TikTok plus email and website updates for multiple brands."
-  },
-  {
-    "id": "auto-20260827-3",
-    "title": "Social Media Coordinator",
-    "company": "Somewhere",
-    "location": "Remote (Philippines)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$1,500-$1,800/mo",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-coordinator-4632341",
-    "tags": [
-      "social media",
-      "content calendars",
-      "copywriting",
-      "community management"
-    ],
-    "desc": "Builds content calendars, writes copy and manages posting cadence and brand voice across multiple client social accounts."
-  },
-  {
-    "id": "auto-20260827-4",
-    "title": "Jr. Social Media Manager, Platform",
-    "company": "Digital Media Management",
-    "location": "Remote (US only)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Lever",
-    "url": "https://jobs.lever.co/digitalmediamanagement/3c85d266-ba9d-432c-9c55-9dab23dea5c0",
-    "tags": [
-      "social media",
-      "content calendars",
-      "copywriting",
-      "entertainment"
-    ],
-    "desc": "Supports social account management and campaign execution for film, TV and entertainment clients at a social media agency; US-based remote only."
-  },
-  {
-    "id": "auto-20260827-5",
-    "title": "Social Media Coordinator",
-    "company": "Bloom",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "mid",
-    "pay": "Not disclosed",
-    "source": "Lever",
-    "url": "https://jobs.lever.co/bloom/a834d8b9-29b1-471d-b1a4-5294c2f65ea7",
-    "tags": [
-      "social media",
-      "content creation",
-      "brand marketing"
-    ],
-    "desc": "Supports social marketing and content creation strategy; requires 2+ yrs of experience in social or content marketing."
-  },
-  {
-    "id": "auto-20260827-6",
-    "title": "Content Marketing Coordinator",
-    "company": "StarRez (College Pads)",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "mid",
-    "pay": "Not disclosed",
-    "source": "Himalayas",
-    "url": "https://himalayas.app/companies/starrez/jobs/content-marketing-coordinator",
-    "tags": [
-      "content marketing",
-      "social media",
-      "tiktok",
-      "student marketing"
-    ],
-    "desc": "Manages TikTok/Instagram channels and creates student-focused content for a student housing brand; 2+ yrs digital marketing/content/social media experience."
-  },
-  {
-    "id": "auto-20260827-7",
-    "title": "Marketing Content Coordinator",
-    "company": "Kiavi",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$60,000-$90,000/yr",
-    "source": "Himalayas",
-    "url": "https://himalayas.app/companies/kiavi/jobs/marketing-content-coordinator",
-    "tags": [
-      "content coordination",
-      "social media",
-      "hubspot",
-      "canva"
-    ],
-    "desc": "Executes marketing content operations across social platforms and marketing tools for a fintech lending company; 1-3 yrs experience."
-  },
-  {
-    "id": "auto-20260826-1",
-    "title": "Junior Marketing Analyst",
-    "company": "Canonical",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "LinkedIn",
-    "url": "https://www.linkedin.com/jobs/view/junior-marketing-analyst-at-canonical-4116921253",
-    "tags": [
-      "digital marketing",
-      "analytics",
-      "branding",
-      "muscat"
-    ],
-    "desc": "Junior-level marketing analyst role based in Muscat supporting marketing analytics and campaign work for a global open-source software company."
   },
   {
     "id": "s1",
