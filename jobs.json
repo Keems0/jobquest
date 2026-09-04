@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20260904-1",
+    "title": "Digital Marketing Specialist",
+    "company": "Clubessential Holdings",
+    "location": "Remote (United States)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-specialist-5644629",
+    "tags": [
+      "digital marketing",
+      "google ads",
+      "paid advertising",
+      "campaign management"
+    ],
+    "desc": "Manages and executes digital marketing programs (SEO, paid ads, email) for a golf/club software company's customers; 2+ yrs digital marketing experience."
+  },
+  {
+    "id": "auto-20260904-2",
+    "title": "Social Media Coordinator",
+    "company": "Digital Shift",
+    "location": "Remote (MST)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-coordinator-5665855",
+    "tags": [
+      "social media",
+      "content calendar",
+      "client communications",
+      "reporting"
+    ],
+    "desc": "Crafts social posts, sources and edits graphics, and optimizes client profiles across Facebook, Instagram and LinkedIn for a digital agency; 1-3 yrs experience."
+  },
+  {
+    "id": "auto-20260904-3",
+    "title": "Digital Marketing Intern",
+    "company": "Digital Alpha Platforms",
+    "location": "Remote (India)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-intern-5670416",
+    "tags": [
+      "content creation",
+      "canva",
+      "seo",
+      "social media"
+    ],
+    "desc": "Hands-on internship creating blogs, LinkedIn posts, carousels and short-form video content using Canva, Gamma and AI tools."
+  },
+  {
+    "id": "auto-20260904-4",
+    "title": "Jr. Social Media Manager, Platform",
+    "company": "Digital Media Management",
+    "location": "Remote (United States)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$16-24/hr",
+    "source": "Himalayas",
+    "url": "https://himalayas.app/companies/digital-media-management/jobs/jr-social-media-manager-platform-6784837791",
+    "tags": [
+      "social media",
+      "content calendars",
+      "copywriting",
+      "entertainment"
+    ],
+    "desc": "Supports social strategy, content calendars and copywriting for film/TV/streaming clients on a social-first agency's TV & Streaming team."
+  },
+  {
+    "id": "auto-20260904-5",
+    "title": "Junior Creator Program Coordinator",
+    "company": "Vocal Media",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Lever",
+    "url": "https://jobs.lever.co/get-vocal-pbc/b7205a23-75f9-46c8-8552-5db061b3f16e",
+    "tags": [
+      "influencer marketing",
+      "content creation",
+      "campaign coordination",
+      "social media"
+    ],
+    "desc": "Supports cross-platform influencer and creator campaigns with the Campaigns Team; part-time cycle-hire role through November 2026."
+  },
+  {
     "id": "auto-20260903-1",
     "title": "Junior Marketing Coordinator",
     "company": "Weekday AI",
@@ -482,97 +572,6 @@
       "reporting"
     ],
     "desc": "Develops and runs digital marketing and social media strategies, content and reporting for global clients; fully remote, Mon-Fri EST hours."
-  },
-  {
-    "id": "auto-20260831-7",
-    "title": "Social Media Manager and Lifestyle Content Creator",
-    "company": "Paired",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Himalayas",
-    "url": "https://himalayas.app/companies/paired-so/jobs/social-media-manager-and-lifestyle-content-creator-us-remote",
-    "tags": [
-      "social media",
-      "content creation",
-      "short-form video",
-      "tiktok"
-    ],
-    "desc": "Builds monthly posting schedules and short-form content across Instagram, TikTok, Pinterest and YouTube Shorts for a lifestyle/beauty brand; requires 1-3 yrs social media management experience."
-  },
-  {
-    "id": "auto-20260830-1",
-    "title": "Digital Marketing/Communications Specialist I",
-    "company": "Cable ONE",
-    "location": "Remote (United States)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$50,400–$75,600/yr",
-    "source": "Jobgether",
-    "url": "https://jobs.lever.co/jobgether/ec59e671-13ac-46e4-a639-f8777dbdd326",
-    "tags": [
-      "digital marketing",
-      "seo",
-      "sem",
-      "paid social",
-      "communications"
-    ],
-    "desc": "Manages digital advertising strategies across search, social, display and video channels; open to 1-2 years of experience in digital marketing or advertising."
-  },
-  {
-    "id": "auto-20260830-2",
-    "title": "Entry Level Digital Marketing Specialist",
-    "company": "Atomic HR (healthcare client)",
-    "location": "Remote (United States)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Atomic HR",
-    "url": "https://jobs.hireatomic.com/jobs/665055-entry-level-digital-marketing-specialist-remote",
-    "tags": [
-      "digital marketing",
-      "brand building",
-      "partnerships",
-      "entry-level"
-    ],
-    "desc": "Supports brand-building and referral partnership outreach for a US healthcare organization; open to candidates with internship, coursework or first-job level exposure to marketing."
-  },
-  {
-    "id": "auto-20260830-3",
-    "title": "Junior Digital PR Specialist",
-    "company": "Digital United",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/junior-digital-pr-specialist-3790887",
-    "tags": [
-      "digital pr",
-      "seo",
-      "content syndication",
-      "part-time"
-    ],
-    "desc": "Early-career, ~20 hrs/month role blending digital PR, outreach and SEO-driven authority building for clients within an SEO team."
-  },
-  {
-    "id": "auto-20260830-4",
-    "title": "META Social Media Specialist",
-    "company": "Jobgether (client undisclosed)",
-    "location": "Remote (United States)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Jobgether",
-    "url": "https://jobs.lever.co/jobgether/c81798d3-151b-452c-9d4b-d6cabcc49afd",
-    "tags": [
-      "social media",
-      "content creation",
-      "meta",
-      "tiktok"
-    ],
-    "desc": "Hands-on content creation and community growth for Facebook and Instagram, covering publishing, trend monitoring and performance reporting."
   },
   {
     "id": "s1",
