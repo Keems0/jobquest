@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-20260907-1",
+    "title": "Social Media Coordinator",
+    "company": "Northbeam",
+    "location": "Remote (USA)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$75K-$90K",
+    "source": "Built In",
+    "url": "https://builtin.com/job/social-media-coordinator/7765634",
+    "tags": [
+      "social media",
+      "content",
+      "marketing",
+      "analytics"
+    ],
+    "desc": "Execute and optimize social strategy, content scheduling and community engagement for an ecommerce marketing intelligence platform."
+  },
+  {
+    "id": "auto-20260907-2",
+    "title": "Experiential Marketing Coordinator",
+    "company": "Workweek",
+    "location": "Remote (USA)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Built In",
+    "url": "https://builtin.com/job/experiential-marketing-coordinator/8005466",
+    "tags": [
+      "marketing",
+      "events",
+      "content",
+      "branding"
+    ],
+    "desc": "Own end-to-end marketing of virtual events and live experiences for a B2B media and newsletter company."
+  },
+  {
+    "id": "auto-20260907-3",
+    "title": "Social Media Specialist",
+    "company": "Brainly",
+    "location": "Remote (Northeastern US)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$55K-$65K",
+    "source": "Ashby",
+    "url": "https://jobs.ashbyhq.com/brainly/78917769-5fab-4da9-935e-72703cc044e0",
+    "tags": [
+      "social media",
+      "content",
+      "tiktok",
+      "branding"
+    ],
+    "desc": "Manage Brainly's day-to-day TikTok, Instagram and YouTube presence and creator partnerships; 1-2 years experience."
+  },
+  {
+    "id": "auto-20260907-4",
+    "title": "Social Media Specialist",
+    "company": "Quickbase",
+    "location": "Remote (Boston, MA hybrid onboarding)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "Not disclosed",
+    "source": "Built In",
+    "url": "https://builtin.com/job/social-media-specialist/6410785",
+    "tags": [
+      "social media",
+      "content",
+      "saas",
+      "branding"
+    ],
+    "desc": "Manage, curate and report on corporate and community social channels for a SaaS workflow platform; 2-3 years experience."
+  },
+  {
     "id": "auto-20260906-1",
     "title": "Social Media Coordinator",
     "company": "Found",
@@ -499,78 +571,6 @@
       "paid media"
     ],
     "desc": "Supports planning and coordination of social media strategy and content for clients at a creator-centric digital agency; junior role, 1-2 yrs experience."
-  },
-  {
-    "id": "auto-20260902-3",
-    "title": "Content Marketing Coordinator",
-    "company": "StarRez",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Greenhouse",
-    "url": "https://job-boards.greenhouse.io/starrez/jobs/4918486008",
-    "tags": [
-      "content marketing",
-      "social media",
-      "email marketing",
-      "student housing"
-    ],
-    "desc": "Manages social channels and creates student-focused content, surveys and campaigns for a student housing software company; entry-friendly, no strict experience minimum stated."
-  },
-  {
-    "id": "auto-20260902-4",
-    "title": "Part-Time Social Media Coordinator (Weekend)",
-    "company": "Newsweek",
-    "location": "Remote (US)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$20-30/hr",
-    "source": "Greenhouse",
-    "url": "https://job-boards.greenhouse.io/newsweek/jobs/4643689006",
-    "tags": [
-      "social media",
-      "content scheduling",
-      "community management",
-      "news"
-    ],
-    "desc": "Schedules and publishes content across Newsweek's social channels and monitors trends during weekend shifts; part-time, no strict years of experience required."
-  },
-  {
-    "id": "auto-20260902-5",
-    "title": "Sales & Marketing Coordinator",
-    "company": "Six Senses Zighy Bay",
-    "location": "Musandam, Oman",
-    "mode": "oman",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "CatererGlobal",
-    "url": "https://www.catererglobal.com/job/sales-marketing-coordinator-six-senses-zighy-bay/six-senses-zighy-bay-oman-job104720183",
-    "tags": [
-      "marketing",
-      "social media",
-      "sales coordination",
-      "hospitality"
-    ],
-    "desc": "Supports the Director of Sales & Marketing with social media activity, campaigns and trade communications at a luxury resort in Oman; around 1 yr experience expected."
-  },
-  {
-    "id": "auto-20260902-6",
-    "title": "Junior Digital Marketing Specialist",
-    "company": "Penbrothers",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Himalayas",
-    "url": "https://himalayas.app/companies/penbrothers/jobs/junior-digital-marketing-specialist",
-    "tags": [
-      "digital marketing",
-      "social media",
-      "seo",
-      "paid ads"
-    ],
-    "desc": "Owns multi-channel digital campaigns (Meta Ads, Google Ads, social, email) for an Australia-based client via a remote-talent staffing firm; open worldwide."
   },
   {
     "id": "s1",
