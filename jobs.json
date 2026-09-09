@@ -1,5 +1,59 @@
 [
   {
+    "id": "auto-20260909-1",
+    "title": "Junior Marketing and Social Media Associate",
+    "company": "MPF Federal",
+    "location": "Remote (United States)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$20.00/hr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/junior-marketing-and-social-media-associate-4485004",
+    "tags": [
+      "social media",
+      "content creation",
+      "ai tools",
+      "marketing automation"
+    ],
+    "desc": "Develops and maintains social content calendars, engages followers, and leverages AI tools and marketing automation workflows to grow brand presence."
+  },
+  {
+    "id": "auto-20260909-2",
+    "title": "Junior Social Media Manager",
+    "company": "Scale Army Careers",
+    "location": "Remote (LATAM/Africa/Eastern Europe)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$800-$1,100/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/junior-social-media-manager-3781180",
+    "tags": [
+      "social media",
+      "content strategy",
+      "brand engagement",
+      "client work"
+    ],
+    "desc": "Executes social media strategy and drives brand engagement for a growing client, with room to grow into added responsibility as the brand expands."
+  },
+  {
+    "id": "auto-20260909-3",
+    "title": "Media Officer and Social Media Coordinator",
+    "company": "PETA Asia",
+    "location": "Remote (Asian Time Zones)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "PETA Asia",
+    "url": "https://www.petaasia.com/about/job-listings/media-officer-and-social-media-coordinator/",
+    "tags": [
+      "social media",
+      "media relations",
+      "content creation",
+      "campaigns"
+    ],
+    "desc": "Builds regional media and social plans for campaigns, video launches and investigations, and develops relationships with journalists and outlets; some media experience preferred."
+  },
+  {
     "id": "auto-20260908-1",
     "title": "Junior Social Media Manager",
     "company": "YAZIO",
@@ -518,60 +572,6 @@
       "canva"
     ],
     "desc": "Part-time role managing Meta and Google ad accounts for clients, planning and optimizing lead-gen campaigns; no prior professional experience mandatory."
-  },
-  {
-    "id": "auto-20260903-3",
-    "title": "Marketing Coordinator",
-    "company": "Somewhere",
-    "location": "Remote (LATAM/Asia/Africa)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$1,500-$2,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-coordinator-5692231",
-    "tags": [
-      "content writing",
-      "social media",
-      "email marketing",
-      "seo"
-    ],
-    "desc": "Writes and schedules social/email content, and supports landing pages and campaign assets for an agency's client brands."
-  },
-  {
-    "id": "auto-20260903-4",
-    "title": "Digital Marketing Intern",
-    "company": "Perfect Search Media",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Himalayas",
-    "url": "https://himalayas.app/companies/perfect-search-media/jobs/digital-marketing-intern",
-    "tags": [
-      "ppc",
-      "seo",
-      "content marketing",
-      "google ads"
-    ],
-    "desc": "Structured internship learning PPC/SEM, social advertising, and SEO while assisting client campaigns and reporting."
-  },
-  {
-    "id": "auto-20260903-5",
-    "title": "Junior Marketing Specialist",
-    "company": "Valsoft Corporation",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Himalayas",
-    "url": "https://himalayas.app/companies/valsoft-corporation/jobs/junior-marketing-specialist",
-    "tags": [
-      "hubspot",
-      "canva",
-      "google analytics",
-      "campaign execution"
-    ],
-    "desc": "Supports execution of digital, social, email and event marketing campaigns for a UK/Ireland software market."
   },
   {
     "id": "s1",
