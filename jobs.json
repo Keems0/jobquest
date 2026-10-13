@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20261013-1",
+    "title": "Social Media & Content Manager",
+    "company": "Remote World",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$450-$700/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-content-manager-4483157",
+    "tags": [
+      "social media",
+      "content creation",
+      "content calendar",
+      "scheduling"
+    ],
+    "desc": "Builds monthly content calendars, writes captions and ad copy, and schedules posts across Instagram, Facebook, X and LinkedIn for several brand clients; compiles weekly performance reports."
+  },
+  {
+    "id": "auto-20261013-2",
+    "title": "Digital Marketing Specialist",
+    "company": "Remote World",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Teamtailor",
+    "url": "https://remoteworld.teamtailor.com/jobs/7597434-digital-marketing-specialist",
+    "tags": [
+      "digital marketing",
+      "seo",
+      "email marketing",
+      "paid campaigns"
+    ],
+    "desc": "Runs paid campaigns, SEO and email marketing with weekly performance reporting for a fully remote staffing agency's client roster."
+  },
+  {
+    "id": "auto-20261013-3",
+    "title": "Digital Marketing Assistant",
+    "company": "Wing Assistant",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Lever",
+    "url": "https://jobs.lever.co/getwingapp/350ac194-7da4-4d49-ab66-d63bc4d9d22b",
+    "tags": [
+      "digital marketing",
+      "virtual assistant",
+      "entry level",
+      "remote"
+    ],
+    "desc": "Entry-level remote digital marketing assistant role supporting clients through an outsourced staffing platform."
+  },
+  {
+    "id": "auto-20261013-4",
+    "title": "SEO Assistant",
+    "company": "Remote Recruitment",
+    "location": "Remote (South Africa)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "R10,000-R18,000/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/seo-assistant-4423632",
+    "tags": [
+      "seo",
+      "digital marketing",
+      "training provided",
+      "entry level"
+    ],
+    "desc": "Entry-level SEO support role for a UK-based client via a remote staffing program; no prior experience required, training provided."
+  },
+  {
+    "id": "auto-20261013-5",
+    "title": "TikTok Content Creator",
+    "company": "NoGigiddy",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "$16-$25/hr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/tiktok-content-creator-5008456",
+    "tags": [
+      "tiktok",
+      "content creation",
+      "short-form video",
+      "part-time"
+    ],
+    "desc": "Part-time, worldwide-remote role filming and posting TikTok content for a consumer brand's channels."
+  },
+  {
     "id": "auto-20261012-1",
     "title": "Social Media Coordinator",
     "company": "Master Mover Inc",
@@ -482,96 +572,6 @@
       "ai tools"
     ],
     "desc": "Plans, creates and schedules content across Instagram, LinkedIn, Facebook, TikTok and X using Canva and AI tools for a government-services firm; part-time, WFH-friendly."
-  },
-  {
-    "id": "auto-20261007-2",
-    "title": "Influencer & Community Manager",
-    "company": "Sophie Society",
-    "location": "Remote (Argentina)",
-    "mode": "remote",
-    "seniority": "mid",
-    "pay": "$1,500-$2,000/month",
-    "source": "Teamtailor",
-    "url": "https://sophiesociety-1744788360.teamtailor.com/jobs/7513053-influencer-community-manager",
-    "tags": [
-      "influencer marketing",
-      "community management",
-      "tiktok shop",
-      "creator economy"
-    ],
-    "desc": "Owns creator and affiliate relationships - sourcing, outreach, onboarding and retention - across 5-15 beauty/lifestyle brands' TikTok Shop programs."
-  },
-  {
-    "id": "auto-20261007-3",
-    "title": "Social Media Assistant",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "R10,000-R18,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-assistant-4490187",
-    "tags": [
-      "social media",
-      "content scheduling",
-      "training provided",
-      "community management"
-    ],
-    "desc": "Assists with scheduling and publishing social content and basic community engagement for a UK client; no prior experience needed, full training provided."
-  },
-  {
-    "id": "auto-20261007-4",
-    "title": "Digital Marketing Assistant",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "R10,000-R16,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-assistant-4459074",
-    "tags": [
-      "digital marketing",
-      "campaigns",
-      "training provided",
-      "content creation"
-    ],
-    "desc": "Supports digital campaign execution and content upkeep for a UK-based client; entry-level, no experience required, training provided."
-  },
-  {
-    "id": "auto-20261007-5",
-    "title": "Email Marketing Assistant",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "R10,000-R18,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/email-marketing-assistant-4490190",
-    "tags": [
-      "email marketing",
-      "content creation",
-      "training provided",
-      "campaigns"
-    ],
-    "desc": "Builds and sends email campaigns and newsletters for a UK client; entry-level, no experience required, training provided."
-  },
-  {
-    "id": "auto-20261007-6",
-    "title": "Digital Marketing Assistant",
-    "company": "CrewBloom",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-assistant-5341977",
-    "tags": [
-      "digital marketing",
-      "social media",
-      "email marketing",
-      "campaigns"
-    ],
-    "desc": "Assists in planning and executing digital campaigns across social, email and paid ads, and helps manage social media accounts; work from anywhere."
   },
   {
     "id": "s1",
