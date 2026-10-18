@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-20261018-1",
+    "title": "Digital Marketer Executive",
+    "company": "Crystal Flash LLC",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "OMR 300/month",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/6860f2db55fb9cfa124a7877",
+    "tags": [
+      "digital marketing",
+      "ppc",
+      "social media",
+      "email marketing",
+      "google analytics"
+    ],
+    "desc": "Muscat-based digital marketing role running PPC, social, email and display campaigns for a lighting and solar products maker; requires 1+ year of digital marketing experience."
+  },
+  {
+    "id": "auto-20261018-2",
+    "title": "Jr. Social Media Manager",
+    "company": "24 Seven",
+    "location": "Remote (US - select states)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$20.00-$21.63/hr",
+    "source": "24 Seven Talent",
+    "url": "https://www.24seventalent.com/job/jr-social-media-manager-491179",
+    "tags": [
+      "social media",
+      "content calendar",
+      "copywriting",
+      "entertainment"
+    ],
+    "desc": "Fully remote junior role managing social accounts and campaigns for film, television and entertainment clients; open to candidates in select US states."
+  },
+  {
     "id": "auto-20261017-1",
     "title": "Junior Content & Social Media Manager",
     "company": "Strivion",
@@ -538,42 +575,6 @@
       "digital marketing"
     ],
     "desc": "Handles on-page SEO optimization, competitor research and CMS content uploads; full-time, posted today."
-  },
-  {
-    "id": "auto-20261011-1",
-    "title": "Junior Copywriter",
-    "company": "Starface World",
-    "location": "Remote (United States)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$60,000-$70,000/yr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/writing/junior-copywriter-4795929",
-    "tags": [
-      "copywriting",
-      "social media",
-      "community management",
-      "content writing"
-    ],
-    "desc": "Writes brand copy and helps manage community engagement on Instagram, TikTok and Facebook for a consumer brand; strong writing judgment wanted, no set years required."
-  },
-  {
-    "id": "auto-20261011-2",
-    "title": "Social Media & Content Creator",
-    "company": "Lago",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$10-$12/hr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-content-creator-4459700",
-    "tags": [
-      "social media",
-      "content creation",
-      "worldwide",
-      "contract"
-    ],
-    "desc": "Produces content against weekly output targets across social channels for a remote-first company; open worldwide, contract."
   },
   {
     "id": "s1",
