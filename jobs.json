@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20261020-1",
+    "title": "Junior Marketing Specialist",
+    "company": "Entrepreneur Cooperative",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$1,000/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/junior-marketing-specialist-4884931",
+    "tags": [
+      "email marketing",
+      "crm",
+      "lead generation",
+      "digital marketing"
+    ],
+    "desc": "Worldwide-remote junior role building and segmenting contact databases in Emma/GoHighLevel and running email/SMS campaigns and LinkedIn outreach for a membership organization."
+  },
+  {
+    "id": "auto-20261020-2",
+    "title": "Content Marketing Coordinator",
+    "company": "DesignFiles",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/designfiles-content-marketing-coordinator",
+    "tags": [
+      "content marketing",
+      "copywriting",
+      "newsletters",
+      "social media"
+    ],
+    "desc": "Remote contract role writing and editing marketing emails, newsletters, social posts and landing pages for an interior-design SaaS platform; posted about 5 days ago."
+  },
+  {
+    "id": "auto-20261020-3",
+    "title": "In-House Content Creator (Freelance)",
+    "company": "Paintgun",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/writing/in-house-content-creator-6189078",
+    "tags": [
+      "content creation",
+      "short-form video",
+      "social media",
+      "freelance"
+    ],
+    "desc": "Freelance worldwide-remote role producing brand-aligned text, image and short-form video content using Adobe Creative Suite/Canva; posted within the last couple of days."
+  },
+  {
+    "id": "auto-20261020-4",
+    "title": "Performance Marketing Specialist (Facebook & Google Ads)",
+    "company": "Aventra Media",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/aventra-media-performance-marketing-specialist-facebook-ads-google-ads",
+    "tags": [
+      "paid social",
+      "google ads",
+      "ppc",
+      "digital marketing"
+    ],
+    "desc": "Fully remote role building, running and optimizing Meta and Google ad campaigns for international client projects; posted within the last day."
+  },
+  {
+    "id": "auto-20261020-5",
+    "title": "Social Media Manager",
+    "company": "U Beauty",
+    "location": "Remote (United States)",
+    "mode": "remote",
+    "seniority": "mid",
+    "pay": "$55,000-$60,000/yr",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-manager-4310917",
+    "tags": [
+      "social media",
+      "content calendar",
+      "skincare",
+      "beauty"
+    ],
+    "desc": "US-remote role managing a monthly social calendar across Instagram, TikTok, Pinterest and Facebook for a skincare brand; 2-5 yrs experience, posted about 3 days ago."
+  },
+  {
     "id": "auto-20261019-1",
     "title": "Junior Content Marketing Specialist",
     "company": "Sublunary",
@@ -485,96 +575,6 @@
       "remote"
     ],
     "desc": "Entry-level remote digital marketing assistant role supporting clients through an outsourced staffing platform."
-  },
-  {
-    "id": "auto-20261013-4",
-    "title": "SEO Assistant",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "R10,000-R18,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/seo-assistant-4423632",
-    "tags": [
-      "seo",
-      "digital marketing",
-      "training provided",
-      "entry level"
-    ],
-    "desc": "Entry-level SEO support role for a UK-based client via a remote staffing program; no prior experience required, training provided."
-  },
-  {
-    "id": "auto-20261013-5",
-    "title": "TikTok Content Creator",
-    "company": "NoGigiddy",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$16-$25/hr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/tiktok-content-creator-5008456",
-    "tags": [
-      "tiktok",
-      "content creation",
-      "short-form video",
-      "part-time"
-    ],
-    "desc": "Part-time, worldwide-remote role filming and posting TikTok content for a consumer brand's channels."
-  },
-  {
-    "id": "auto-20261012-1",
-    "title": "Social Media Coordinator",
-    "company": "Master Mover Inc",
-    "location": "Remote (United States)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$70,000-$75,000/yr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-coordinator-5628169",
-    "tags": [
-      "social media",
-      "seo",
-      "content creation",
-      "strategy"
-    ],
-    "desc": "Owns social media strategy, content creation and SEO-driven web traffic for a moving-services company; posted today."
-  },
-  {
-    "id": "auto-20261012-2",
-    "title": "Social Media & Community Coordinator",
-    "company": "Altametrics",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-community-coordinator-4575017",
-    "tags": [
-      "social media",
-      "community management",
-      "content marketing",
-      "short-form video"
-    ],
-    "desc": "Publishes daily social content and supports webinars, podcasts and trade-show marketing for a restaurant-industry association; 1-3 yrs experience in social or digital marketing."
-  },
-  {
-    "id": "auto-20261012-3",
-    "title": "UGC Creator",
-    "company": "KeyMik",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$1,000-$10,000/month (contract)",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/ugc-creator-5046042",
-    "tags": [
-      "ugc",
-      "short-form video",
-      "content creation",
-      "tiktok"
-    ],
-    "desc": "Films short-form UGC videos for TikTok, Instagram Reels and YouTube Shorts using basic CapCut/Canva editing; no large following needed."
   },
   {
     "id": "s1",
