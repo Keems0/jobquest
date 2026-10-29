@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-20261029-1",
+    "title": "Junior Copywriter",
+    "company": "NgageContent",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$45,000-$55,000/yr",
+    "source": "DigitalHire",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/35rkCTU9E76Ww028tRybtr",
+    "tags": [
+      "copywriting",
+      "social media",
+      "content",
+      "agency"
+    ],
+    "desc": "Fully remote junior copywriting role at a digital marketing agency covering social media content alongside web and email copy; 1-3 yrs experience, posted about 2 weeks ago."
+  },
+  {
+    "id": "auto-20261029-2",
+    "title": "Associate, Social Media",
+    "company": "Claire's",
+    "location": "Remote (Hoffman Estates, IL)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$52,000-$71,760/yr",
+    "source": "Built In",
+    "url": "https://builtin.com/job/associate-social-media/3714601",
+    "tags": [
+      "social media",
+      "instagram",
+      "tiktok",
+      "youtube",
+      "content"
+    ],
+    "desc": "Remote junior role growing Claire's Instagram, TikTok and YouTube channels through content development and community engagement; posted within the last day."
+  },
+  {
+    "id": "auto-20261029-3",
+    "title": "Copywriter (Temporary Contract)",
+    "company": "Quince",
+    "location": "Remote (United States)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$62,000-$79,000/yr",
+    "source": "Built In",
+    "url": "https://builtin.com/job/copywriter-temporary-contract/7562221",
+    "tags": [
+      "copywriting",
+      "email marketing",
+      "sms",
+      "digital marketing"
+    ],
+    "desc": "Remote temporary-contract role producing high-volume on-brand copy for email, SMS and digital marketing campaigns using AI tools; reposted this week."
+  },
+  {
     "id": "auto-20261028-1",
     "title": "Junior Content & Social Media Manager",
     "company": "Strivion",
@@ -516,60 +571,6 @@
       "digital marketing"
     ],
     "desc": "Muscat-based role crafting and managing social media strategy and content across Facebook, Instagram, TikTok, YouTube and Snapchat for Dubizzle Oman's channels."
-  },
-  {
-    "id": "auto-20261023-5",
-    "title": "Social Media Coordinator",
-    "company": "The Sociable Society",
-    "location": "Remote (United States & Canada)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-coordinator-4952963",
-    "tags": [
-      "social media",
-      "short-form video",
-      "content calendar",
-      "community management"
-    ],
-    "desc": "US/Canada-remote role producing social-first video and graphic content for Instagram, TikTok and LinkedIn and maintaining content calendars and community engagement; posted 3 days ago."
-  },
-  {
-    "id": "auto-20261022-1",
-    "title": "Marketing & Social Media Assistant",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "R18,000-R25,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-social-media-assistant-4357980",
-    "tags": [
-      "social media",
-      "content creation",
-      "design",
-      "digital marketing"
-    ],
-    "desc": "South-Africa-remote role for a candidate with 1+ year in marketing/social/content, creating posts and supporting campaigns on UK business hours."
-  },
-  {
-    "id": "auto-20261022-2",
-    "title": "Junior Copywriter",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "R10,000-R16,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/writing/junior-copywriter-4423633",
-    "tags": [
-      "copywriting",
-      "content writing",
-      "entry level",
-      "training provided"
-    ],
-    "desc": "Entry-level remote copywriting role with no professional experience required and full training provided, open to South Africa-based candidates."
   },
   {
     "id": "s1",
