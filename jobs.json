@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-20261030-1",
+    "title": "Content Creator & Video Producer",
+    "company": "Porkbun",
+    "location": "Remote (US-based, Portland OR preferred)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$60,000/yr",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/porkbun-content-creator-video-producer",
+    "tags": [
+      "content creation",
+      "video editing",
+      "social media",
+      "branding"
+    ],
+    "desc": "Fully remote (US-based) role creating video and social content for a domain registrar; entry-friendly, pay scales with experience."
+  },
+  {
+    "id": "auto-20261030-2",
+    "title": "Social Media Content Specialist - Bilingual (French/English)",
+    "company": "ICUC Social (dentsu)",
+    "location": "Remote (Canada/US)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "$14.42-$17.13/hr",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/icuc-social-social-media-content-specialist-bilingual-french-english-remote-in-canada-us",
+    "tags": [
+      "social media",
+      "community management",
+      "content",
+      "bilingual"
+    ],
+    "desc": "Entry-level remote role moderating and writing brand-aligned social content in English and French for client channels; shift flexibility required."
+  },
+  {
+    "id": "auto-20261030-3",
+    "title": "Junior Social Media & Content Coordinator",
+    "company": "SHE.com",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "RemoteJobs.org",
+    "url": "https://remotejobs.org/remote-jobs/junior-social-media-amp-content-coordinator-she-com",
+    "tags": [
+      "social media",
+      "content",
+      "scheduling",
+      "caption writing"
+    ],
+    "desc": "Remote role scheduling and writing on-brand captions across a female-entrepreneur community's social platforms; flexible hours, posted a few days ago."
+  },
+  {
+    "id": "auto-20261030-4",
+    "title": "Part-Time Brand & Outreach Assistant (B2B SaaS VC)",
+    "company": "Uptalent.io",
+    "location": "Remote (10-20 hrs/week)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/uptalent-io-part-time-brand-outreach-assistant-b2b-saas-vc-remote",
+    "tags": [
+      "branding",
+      "content",
+      "outreach",
+      "copywriting"
+    ],
+    "desc": "Part-time remote role supporting brand content, outreach and copywriting for an early-stage B2B SaaS VC/accelerator; Central Time overlap preferred."
+  },
+  {
     "id": "auto-20261029-1",
     "title": "Junior Copywriter",
     "company": "NgageContent",
@@ -499,78 +571,6 @@
       "internship"
     ],
     "desc": "Muscat-based internship (possible full-time conversion) creating social content, copy and graphics and managing client social accounts for a social-media/events agency; ~1 yr content creation experience preferred."
-  },
-  {
-    "id": "auto-20261023-1",
-    "title": "Social Media Assistant",
-    "company": "Remote Recruitment",
-    "location": "Remote (South Africa)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "R10,000-R18,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-assistant-4490187",
-    "tags": [
-      "social media",
-      "content scheduling",
-      "entry level",
-      "training provided"
-    ],
-    "desc": "South-Africa-remote entry-level role scheduling and creating posts for UK clients across Facebook, Instagram, LinkedIn and X; no prior experience required, training provided."
-  },
-  {
-    "id": "auto-20261023-2",
-    "title": "Social Media & Content Manager",
-    "company": "Remote World (for a Nigerian digital marketing agency)",
-    "location": "Remote (Worldwide, WAT hours preferred)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$450-$700/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-content-manager-4483157",
-    "tags": [
-      "social media",
-      "content calendar",
-      "copywriting",
-      "digital marketing"
-    ],
-    "desc": "Fully remote role managing social accounts and writing short-form copy and monthly content calendars for a Nigerian digital marketing agency serving West African consumer brands; flexible hours with WAT overlap preferred."
-  },
-  {
-    "id": "auto-20261023-3",
-    "title": "Copywriter",
-    "company": "Remote World",
-    "location": "Remote (India)",
-    "mode": "remote",
-    "seniority": "mid",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/writing/copywriter-4399343",
-    "tags": [
-      "copywriting",
-      "brand messaging",
-      "ad copy",
-      "email marketing"
-    ],
-    "desc": "India-remote copywriting role crafting ad, landing-page and email copy and running A/B tests; 2+ years of copywriting experience and a results-driven portfolio required."
-  },
-  {
-    "id": "auto-20261023-4",
-    "title": "Social Media Executive",
-    "company": "Dubizzle Oman",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "mid",
-    "pay": "Not disclosed",
-    "source": "Mustakbil",
-    "url": "https://om.mustakbil.com/jobs/job/1177539",
-    "tags": [
-      "social media",
-      "content strategy",
-      "campaigns",
-      "digital marketing"
-    ],
-    "desc": "Muscat-based role crafting and managing social media strategy and content across Facebook, Instagram, TikTok, YouTube and Snapchat for Dubizzle Oman's channels."
   },
   {
     "id": "s1",
