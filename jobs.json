@@ -1,5 +1,75 @@
 [
   {
+    "id": "auto-20261108-1",
+    "title": "Digital Marketing Coordinator",
+    "company": "ConnectUs Marketing Solutions",
+    "location": "Remote (Philippines)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "PHP 17,000-32,500/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-coordinator-6194158",
+    "tags": [
+      "digital marketing",
+      "coordinator",
+      "remote"
+    ],
+    "desc": "Fully remote digital marketing coordinator role supporting campaigns and day-to-day marketing operations for a Philippines-based agency."
+  },
+  {
+    "id": "auto-20261108-2",
+    "title": "Content Marketing Coordinator",
+    "company": "Confidential — via Qureos",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$20,000-$40,000/yr",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/content-marketing-coordinator-1779229786421",
+    "tags": [
+      "content marketing",
+      "coordinator",
+      "remote"
+    ],
+    "desc": "Remote content marketing coordinator role producing content across channels; asks for proven content/digital marketing experience and a content portfolio."
+  },
+  {
+    "id": "auto-20261108-3",
+    "title": "Content Marketing Coordinator (Remote Contractor)",
+    "company": "DesignFiles",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/designfiles-content-marketing-coordinator",
+    "tags": [
+      "content marketing",
+      "email marketing",
+      "social media",
+      "saas"
+    ],
+    "desc": "Remote contract role creating marketing content (email, social, campaigns) for a SaaS company serving interior designers."
+  },
+  {
+    "id": "auto-20261108-4",
+    "title": "Sales & Marketing Executive - Digital Marketing",
+    "company": "Six Senses Zighy Bay",
+    "location": "Musandam, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Tanqeeb",
+    "url": "https://oman.tanqeeb.com/jobs/view/20566463/sid:",
+    "tags": [
+      "digital marketing",
+      "social media",
+      "content",
+      "hospitality"
+    ],
+    "desc": "Oman luxury-resort role handling digital marketing collateral and content, coordinating with the Marketing Manager; about 1-2 years of social/content/digital marketing experience, hospitality a plus."
+  },
+  {
     "id": "auto-20261107-1",
     "title": "Social Media Management Officer",
     "company": "Ahmad Bin Majid International School",
@@ -498,78 +568,6 @@
       "events"
     ],
     "desc": "Hybrid Muscat role developing marketing strategy and content, and managing online/offline campaigns for an AI & crypto events company; prior experience a plus, not required."
-  },
-  {
-    "id": "auto-20261101-3",
-    "title": "Junior Content Marketing Specialist",
-    "company": "Sublunary",
-    "location": "Remote (Los Angeles, CA based team)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "DigitalHire",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/4Jpyg4GmBeXefPTmSJXZIJ",
-    "tags": [
-      "content marketing",
-      "social media",
-      "writing",
-      "junior"
-    ],
-    "desc": "Fully remote junior role (1-3 yrs) creating and distributing content to attract and retain target audience; posted about 10 days ago."
-  },
-  {
-    "id": "auto-20261101-4",
-    "title": "Junior Content Marketing Manager",
-    "company": "Appinio",
-    "location": "Remote (Northern America, Western Europe)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/junior-content-marketing-manager-6302878",
-    "tags": [
-      "content marketing",
-      "brand",
-      "remote",
-      "market research"
-    ],
-    "desc": "Remote junior role supporting a global content & brand function at a market-research/insights company."
-  },
-  {
-    "id": "auto-20261031-1",
-    "title": "Social Media & Content Manager",
-    "company": "Remote World",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$450-$700/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/social-media-content-manager-4483157",
-    "tags": [
-      "social media",
-      "content management",
-      "marketing",
-      "remote"
-    ],
-    "desc": "Fully remote, worldwide social media and content management role; entry-level pay band, posted within the last few days."
-  },
-  {
-    "id": "auto-20261030-1",
-    "title": "Content Creator & Video Producer",
-    "company": "Porkbun",
-    "location": "Remote (US-based, Portland OR preferred)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$60,000/yr",
-    "source": "We Work Remotely",
-    "url": "https://weworkremotely.com/remote-jobs/porkbun-content-creator-video-producer",
-    "tags": [
-      "content creation",
-      "video editing",
-      "social media",
-      "branding"
-    ],
-    "desc": "Fully remote (US-based) role creating video and social content for a domain registrar; entry-friendly, pay scales with experience."
   },
   {
     "id": "s1",
