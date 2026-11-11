@@ -1,5 +1,113 @@
 [
   {
+    "id": "auto-20261111-1",
+    "title": "Social Media Executive",
+    "company": "D42 Group",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Tanqeeb",
+    "url": "https://oman.tanqeeb.com/jobs/view/20477746/sid:",
+    "tags": [
+      "social media",
+      "content creation",
+      "campaigns",
+      "analytics"
+    ],
+    "desc": "Muscat agency role running social channels (Facebook, Instagram, LinkedIn), creating visuals/campaign content and tracking performance analytics."
+  },
+  {
+    "id": "auto-20261111-2",
+    "title": "Marketing Associate",
+    "company": "INMA Arts",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Mustakbil",
+    "url": "https://om.mustakbil.com/jobs/job/1425359",
+    "tags": [
+      "marketing strategy",
+      "graphic design",
+      "community programs",
+      "events"
+    ],
+    "desc": "Full-time role at a Muscat arts/community space helping plan marketing for programs and workshops; wants 1+ year experience plus graphic design skills."
+  },
+  {
+    "id": "auto-20261111-3",
+    "title": "AI Social Media Coordinator",
+    "company": "Hire Hangar",
+    "location": "Remote (USA timezones)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$1,000-$2,500/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/ai-social-media-coordinator-4939407",
+    "tags": [
+      "social media",
+      "ai tools",
+      "content creation",
+      "remote"
+    ],
+    "desc": "Contract coordinator using AI tools to plan and publish social content for a remote-first team on US hours; posted this week."
+  },
+  {
+    "id": "auto-20261111-4",
+    "title": "Social Media Coordinator",
+    "company": "HireHawk",
+    "location": "Remote (Latin America)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$1,600/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-coordinator-4775087",
+    "tags": [
+      "social media",
+      "community management",
+      "remote",
+      "latam"
+    ],
+    "desc": "LatAm-based remote coordinator handling day-to-day posting, engagement and light reporting for client brands; posted this week."
+  },
+  {
+    "id": "auto-20261111-5",
+    "title": "Social Media Coordinator",
+    "company": "Somewhere",
+    "location": "Remote (Philippines)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$1,500-$1,800/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-coordinator-4632341",
+    "tags": [
+      "social media",
+      "scheduling",
+      "remote",
+      "philippines"
+    ],
+    "desc": "Philippines-based remote coordinator scheduling posts, writing captions and pulling light performance reports across social platforms; posted this week."
+  },
+  {
+    "id": "auto-20261111-6",
+    "title": "Content Coordinator",
+    "company": "Black & White Zebra",
+    "location": "Remote (multiple countries, contract)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/writing/content-coordinator-5352492",
+    "tags": [
+      "content creation",
+      "ai tools",
+      "remote",
+      "contract"
+    ],
+    "desc": "Remote contract role producing and organizing content with AI/automation tools for a media company open to several countries; posted this week."
+  },
+  {
     "id": "auto-20261110-1",
     "title": "Social Media Marketing Specialist",
     "company": "TAPWINNR Agency",
@@ -461,110 +569,6 @@
       "hospitality"
     ],
     "desc": "Muscat luxury-resort role managing social channels and creating photo/video content; minimum 1 year of social media or digital marketing experience, hospitality background a plus."
-  },
-  {
-    "id": "auto-20261104-2",
-    "title": "Creative Marketing Associate",
-    "company": "Aklium",
-    "location": "Muscat, Oman (Hybrid)",
-    "mode": "oman",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/creative-marketing-associate-1778477183380",
-    "tags": [
-      "branding",
-      "creative",
-      "marketing",
-      "agency"
-    ],
-    "desc": "Hybrid-Muscat role at a branding/creative agency working closely with the director across brand, content and campaign work; broader scope than a typical assistant role."
-  },
-  {
-    "id": "auto-20261104-3",
-    "title": "Jr. Social Media Manager - Platform",
-    "company": "Digital Media Management (a Keywords Studios company)",
-    "location": "Remote (USA)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$21.63-$24.04/hr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/jr-social-media-manager-platform-4417884",
-    "tags": [
-      "social media",
-      "entertainment",
-      "content",
-      "agency"
-    ],
-    "desc": "USA-remote junior role managing social accounts for movies, TV shows and studio brands at a social-first entertainment marketing agency; junior (1-2 yrs) experience."
-  },
-  {
-    "id": "auto-20261103-1",
-    "title": "Marketing Coordinator",
-    "company": "Breaktime Media",
-    "location": "Remote (USA)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-coordinator-5674742",
-    "tags": [
-      "marketing coordinator",
-      "social media",
-      "content strategy"
-    ],
-    "desc": "USA-remote coordinator managing Breaktime's social media communities and helping develop content strategy, case studies and infographics; posted today."
-  },
-  {
-    "id": "auto-20261103-2",
-    "title": "Content & Social Media Coordinator",
-    "company": "Launchmetrics",
-    "location": "Remote (UK)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/content-social-media-coordinator-5011437",
-    "tags": [
-      "content marketing",
-      "social media",
-      "coordinator"
-    ],
-    "desc": "UK-remote coordinator supporting content creation across channels and tracking performance metrics for a fashion/PR SaaS company; posted 2 days ago."
-  },
-  {
-    "id": "auto-20261103-3",
-    "title": "Marketing Coordinator",
-    "company": "Somewhere",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "mid",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-coordinator-5692231",
-    "tags": [
-      "email marketing",
-      "social media",
-      "copywriting"
-    ],
-    "desc": "Remote coordinator producing copy for email, social and landing pages and scheduling posts across LinkedIn/Instagram/Facebook; 2-3 years of marketing experience preferred."
-  },
-  {
-    "id": "auto-20261103-4",
-    "title": "Marketing & Social Media Assistant",
-    "company": "Assist World",
-    "location": "Remote (US East Coast hours)",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$1,200-$1,600/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/marketing-social-media-assistant-4631259",
-    "tags": [
-      "social media",
-      "content creation",
-      "marketing assistant"
-    ],
-    "desc": "Remote marketing and social media assistant handling post scheduling, content creation and website updates during US East Coast business hours."
   },
   {
     "id": "s1",
