@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20261113-1",
+    "title": "Social Media & Digital Marketing Executive",
+    "company": "Confidential — via Qureos",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/social-media-executive-1770504683897",
+    "tags": [
+      "social media",
+      "digital marketing",
+      "customer engagement",
+      "reporting"
+    ],
+    "desc": "Muscat role managing social accounts, handling customer messages across WhatsApp/email/phone, and preparing monthly and annual social media performance reports."
+  },
+  {
+    "id": "auto-20261113-2",
+    "title": "Social Media Specialist",
+    "company": "Dubizzle Group",
+    "location": "Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Tanqeeb",
+    "url": "https://oman.tanqeeb.com/jobs/view/20528112/sid:",
+    "tags": [
+      "social media",
+      "content creation",
+      "campaigns",
+      "analytics"
+    ],
+    "desc": "Oman role at Dubizzle Group developing social media strategy, managing content and post scheduling, running campaigns and tracking performance analytics."
+  },
+  {
+    "id": "auto-20261113-3",
+    "title": "Marketing Specialist (Photography, Design & Social Media)",
+    "company": "Confidential — via Qureos",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "entry",
+    "pay": "RO 250/month",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/marketing-specialist-photography-design-social-media-english-arabic-compulsory-1755148702370",
+    "tags": [
+      "photography",
+      "graphic design",
+      "social media",
+      "new grad"
+    ],
+    "desc": "Muscat new-grad role covering photography, graphic design and social media content; bilingual English/Arabic required."
+  },
+  {
+    "id": "auto-20261113-4",
+    "title": "Junior Marketing Specialist",
+    "company": "Entrepreneur Cooperative",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$1,000/month",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/junior-marketing-specialist-4884931",
+    "tags": [
+      "marketing operations",
+      "campaign coordination",
+      "remote",
+      "junior"
+    ],
+    "desc": "Worldwide-remote junior role supporting marketing operations, customer communications and campaign coordination; about 1-2 years experience."
+  },
+  {
+    "id": "auto-20261113-5",
+    "title": "Content Creator Intern",
+    "company": "Choice Advertising Agency",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/66bf27ada8620660d9da3081",
+    "tags": [
+      "content creation",
+      "social media",
+      "internship",
+      "graphic design"
+    ],
+    "desc": "Muscat agency internship creating social media content and graphics, with potential to convert to full-time; stipend offered."
+  },
+  {
     "id": "auto-20261112-1",
     "title": "Digital Coordinator",
     "company": "Civic Nation",
@@ -478,96 +568,6 @@
       "content"
     ],
     "desc": "Muscat hotel-group role managing digital presence, content and engagement across two hotels and several dining brands; junior level, posted about 11 days ago."
-  },
-  {
-    "id": "auto-20261107-4",
-    "title": "Digital Strategy Coordinator",
-    "company": "Combine Global Recruitment",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-strategy-coordinator-5368529",
-    "tags": [
-      "digital marketing",
-      "strategy",
-      "content",
-      "entry level"
-    ],
-    "desc": "Remote entry-level role supporting a recruitment firm's strategy team with marketing research and content/sales support; posted about a week ago."
-  },
-  {
-    "id": "auto-20261107-5",
-    "title": "Digital Marketing Assistant",
-    "company": "Pink Paradigm",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$18.00-$25.00/hr",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/digital-marketing-assistant-1781650444276",
-    "tags": [
-      "digital marketing",
-      "content",
-      "remote",
-      "entry level"
-    ],
-    "desc": "Remote, entry-level marketing assistant role with flexible hours and full training provided."
-  },
-  {
-    "id": "auto-20261107-6",
-    "title": "Digital Marketer Executive",
-    "company": "Crystal Flash LLC",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/6860f2db55fb9cfa124a7877",
-    "tags": [
-      "digital marketing",
-      "ppc",
-      "social media",
-      "email marketing"
-    ],
-    "desc": "Muscat role covering PPC, social media, email and display advertising; minimum 1 year of digital marketing experience."
-  },
-  {
-    "id": "auto-20261107-7",
-    "title": "Content Coordinator (US-Based, Remote Contractor)",
-    "company": "SimpleTiger LLC",
-    "location": "Remote (US-based)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "We Work Remotely",
-    "url": "https://weworkremotely.com/remote-jobs/simpletiger-content-coordinator-u-s-based-remote-contractor",
-    "tags": [
-      "content marketing",
-      "coordination",
-      "agency",
-      "remote"
-    ],
-    "desc": "US-remote contractor role managing content assets, timelines and client communication for a B2B SaaS marketing agency."
-  },
-  {
-    "id": "auto-20261106-1",
-    "title": "Digital Marketing & Social Media Coordinator",
-    "company": "Inside Out Hiring",
-    "location": "Remote (LatAm/SEA/Africa)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$8.00-$10.00/hr",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-social-media-coordinator-5538685",
-    "tags": [
-      "digital marketing",
-      "social media",
-      "coordinator",
-      "content"
-    ],
-    "desc": "Remote coordinator managing social channels and digital marketing tasks across LatAm/SEA/Africa time zones; 2+ years experience, posted about 4 days ago."
   },
   {
     "id": "s1",
