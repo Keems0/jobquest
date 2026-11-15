@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20261115-1",
+    "title": "Junior Digital Marketing Specialist",
+    "company": "SHUTTLE99 OU",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/junior-digital-marketing-specialist-5255657",
+    "tags": [
+      "digital marketing",
+      "content creation",
+      "remote",
+      "entry level"
+    ],
+    "desc": "Worldwide-remote junior role at a fintech startup supporting digital marketing and content across channels; no prior experience required, just fluent English and curiosity."
+  },
+  {
+    "id": "auto-20261115-2",
+    "title": "Digital Marketing Assistant",
+    "company": "CrewBloom",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Remotive",
+    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-assistant-5341977",
+    "tags": [
+      "digital marketing",
+      "seo",
+      "social media",
+      "remote"
+    ],
+    "desc": "Remote entry-level role supporting SEO, social account management and content creation tasks for client marketing campaigns."
+  },
+  {
+    "id": "auto-20261115-3",
+    "title": "Content Coordinator (Remote Contractor)",
+    "company": "SimpleTiger",
+    "location": "Remote (USA)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/listings/simpletiger-content-coordinator-u-s-based-remote-contractor",
+    "tags": [
+      "content creation",
+      "coordination",
+      "remote",
+      "contract"
+    ],
+    "desc": "US-based remote contractor coordinating content assets, stock imagery and client communication through the production process for a marketing agency."
+  },
+  {
+    "id": "auto-20261115-4",
+    "title": "Social Media & Digital Marketing Executive",
+    "company": "Radisson Hotel Muscat Panorama / Levatio Suites Muscat",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Radisson Careers",
+    "url": "https://radissoncareers.com/job/social-media-and-digital-marketing-executive-in-muscat-oman-jid-33304",
+    "tags": [
+      "social media",
+      "digital marketing",
+      "hospitality",
+      "content creation"
+    ],
+    "desc": "Muscat hospitality role managing social media, content planning and online reputation for two hotels and several dining brands; 1-2 years experience preferred."
+  },
+  {
+    "id": "auto-20261115-5",
+    "title": "Social Media Specialist",
+    "company": "Confidential — via Qureos",
+    "location": "Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Competitive salary based on experience",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/social-media-marketing-specialist-1767264840092",
+    "tags": [
+      "social media",
+      "digital marketing",
+      "oman",
+      "bilingual"
+    ],
+    "desc": "Oman-based role managing and growing social media presence across major platforms; local language and culture knowledge valued."
+  },
+  {
     "id": "auto-20261114-1",
     "title": "Social Media Community Manager",
     "company": "Confidential (client) — via Agile Consultants",
@@ -480,93 +570,6 @@
       "content"
     ],
     "desc": "Hospitality social media role requiring at least one year of experience in photography, videography and drone content."
-  },
-  {
-    "id": "auto-20261109-4",
-    "title": "Marketing Trainee",
-    "company": "Confidential — via Qureos",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/marketing-trainee-1757110156510",
-    "tags": [
-      "marketing",
-      "trainee",
-      "campaigns"
-    ],
-    "desc": "Hands-on marketing training program supporting campaigns, reporting and brand work, with a path to Marketing Assistant."
-  },
-  {
-    "id": "auto-20261109-5",
-    "title": "Videographer and Editor",
-    "company": "Aiwa Media Group",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/videographer-and-editor-1758798009241",
-    "tags": [
-      "videography",
-      "content creation",
-      "social media",
-      "editing"
-    ],
-    "desc": "Junior role shooting and editing short-form social media video content; basic mobile shooting/editing skills welcome."
-  },
-  {
-    "id": "auto-20261108-1",
-    "title": "Digital Marketing Coordinator",
-    "company": "ConnectUs Marketing Solutions",
-    "location": "Remote (Philippines)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "PHP 17,000-32,500/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/digital-marketing-coordinator-6194158",
-    "tags": [
-      "digital marketing",
-      "coordinator",
-      "remote"
-    ],
-    "desc": "Fully remote digital marketing coordinator role supporting campaigns and day-to-day marketing operations for a Philippines-based agency."
-  },
-  {
-    "id": "auto-20261108-2",
-    "title": "Content Marketing Coordinator",
-    "company": "Confidential — via Qureos",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$20,000-$40,000/yr",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/content-marketing-coordinator-1779229786421",
-    "tags": [
-      "content marketing",
-      "coordinator",
-      "remote"
-    ],
-    "desc": "Remote content marketing coordinator role producing content across channels; asks for proven content/digital marketing experience and a content portfolio."
-  },
-  {
-    "id": "auto-20261108-3",
-    "title": "Content Marketing Coordinator (Remote Contractor)",
-    "company": "DesignFiles",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "We Work Remotely",
-    "url": "https://weworkremotely.com/remote-jobs/designfiles-content-marketing-coordinator",
-    "tags": [
-      "content marketing",
-      "email marketing",
-      "social media",
-      "saas"
-    ],
-    "desc": "Remote contract role creating marketing content (email, social, campaigns) for a SaaS company serving interior designers."
   },
   {
     "id": "s1",
