@@ -1,5 +1,82 @@
 [
   {
+    "id": "auto-20261120-1",
+    "title": "Marketing Coordinator (Part-Time)",
+    "company": "Maze",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158753-marketing-coordinator-part-time",
+    "tags": [
+      "marketing",
+      "content",
+      "social media",
+      "events",
+      "remote",
+      "part-time"
+    ],
+    "desc": "Remote part-time (10-20 hrs/wk) entry-level role covering events, content and social media scheduling; suits students and early-career candidates."
+  },
+  {
+    "id": "auto-20261120-2",
+    "title": "Digital Marketing Specialist (Organic Growth & Lead Generation)",
+    "company": "Reframe Space Inc.",
+    "location": "Remote (Worldwide)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "$25,000-$48,999/yr",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/reframe-space-inc-digital-marketing-specialist-organic-growth-and-lead-generation",
+    "tags": [
+      "digital marketing",
+      "lead generation",
+      "social media",
+      "email marketing",
+      "remote"
+    ],
+    "desc": "Worldwide-remote role at a US office-furniture company driving organic growth, LinkedIn outreach and lead generation; freelance/internship/project experience welcomed, open to early-career applicants."
+  },
+  {
+    "id": "auto-20261120-3",
+    "title": "Marketing & Content Intern (Part-Time)",
+    "company": "Kinelo",
+    "location": "Remote (USA)",
+    "mode": "remote",
+    "seniority": "entry",
+    "pay": "$25/hr",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/remote-jobs/kinelo-marketing-content-intern-part-time",
+    "tags": [
+      "content creation",
+      "social media",
+      "market research",
+      "internship",
+      "remote"
+    ],
+    "desc": "US-remote part-time (10-20 hrs/wk) intern role at an early-stage AI startup covering content, social media, market research and campaigns; no technical background required."
+  },
+  {
+    "id": "auto-20261120-4",
+    "title": "Content Creator",
+    "company": "Trampo Extreme Oman",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/content-creator-1781645488502",
+    "tags": [
+      "content creation",
+      "social media",
+      "videography",
+      "entertainment",
+      "oman"
+    ],
+    "desc": "Muscat entertainment-venue role creating photo, video and written content for digital channels and supporting on-ground events; prior content/social media creation experience and Instagram/TikTok/short-form video skills needed."
+  },
+  {
     "id": "auto-20261119-1",
     "title": "Junior Content Marketing Manager",
     "company": "Appinio",
@@ -500,78 +577,6 @@
       "reporting"
     ],
     "desc": "Muscat role managing social accounts, handling customer messages across WhatsApp/email/phone, and preparing monthly and annual social media performance reports."
-  },
-  {
-    "id": "auto-20261113-2",
-    "title": "Social Media Specialist",
-    "company": "Dubizzle Group",
-    "location": "Oman",
-    "mode": "oman",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Tanqeeb",
-    "url": "https://oman.tanqeeb.com/jobs/view/20528112/sid:",
-    "tags": [
-      "social media",
-      "content creation",
-      "campaigns",
-      "analytics"
-    ],
-    "desc": "Oman role at Dubizzle Group developing social media strategy, managing content and post scheduling, running campaigns and tracking performance analytics."
-  },
-  {
-    "id": "auto-20261113-3",
-    "title": "Marketing Specialist (Photography, Design & Social Media)",
-    "company": "Confidential — via Qureos",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "entry",
-    "pay": "RO 250/month",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/marketing-specialist-photography-design-social-media-english-arabic-compulsory-1755148702370",
-    "tags": [
-      "photography",
-      "graphic design",
-      "social media",
-      "new grad"
-    ],
-    "desc": "Muscat new-grad role covering photography, graphic design and social media content; bilingual English/Arabic required."
-  },
-  {
-    "id": "auto-20261113-4",
-    "title": "Junior Marketing Specialist",
-    "company": "Entrepreneur Cooperative",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$1,000/month",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/junior-marketing-specialist-4884931",
-    "tags": [
-      "marketing operations",
-      "campaign coordination",
-      "remote",
-      "junior"
-    ],
-    "desc": "Worldwide-remote junior role supporting marketing operations, customer communications and campaign coordination; about 1-2 years experience."
-  },
-  {
-    "id": "auto-20261113-5",
-    "title": "Content Creator Intern",
-    "company": "Choice Advertising Agency",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/66bf27ada8620660d9da3081",
-    "tags": [
-      "content creation",
-      "social media",
-      "internship",
-      "graphic design"
-    ],
-    "desc": "Muscat agency internship creating social media content and graphics, with potential to convert to full-time; stipend offered."
   },
   {
     "id": "s1",
