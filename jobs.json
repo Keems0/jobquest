@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-20261123-1",
+    "title": "Marketing Officer",
+    "company": "Oman Investment Authority",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "entry",
+    "pay": "Not disclosed",
+    "source": "NaukriGulf",
+    "url": "https://www.naukrigulf.com/marketing-officer-jobs-in-muscat-oman-in-oman-investment-authority-0-to-3-years-n-cd-40002342-jid-130526500635",
+    "tags": [
+      "marketing",
+      "branding",
+      "oman",
+      "entry level"
+    ],
+    "desc": "0-3 yrs role at Oman's sovereign wealth fund supporting marketing, media and communications initiatives."
+  },
+  {
+    "id": "auto-20261123-2",
+    "title": "Social Media Executive",
+    "company": "Confidential — via Qureos",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/social-media-executive-1770504683897",
+    "tags": [
+      "social media",
+      "digital marketing",
+      "oman"
+    ],
+    "desc": "1-3 yrs role managing Facebook, Instagram, TikTok and LinkedIn plus monthly and annual social performance reporting."
+  },
+  {
+    "id": "auto-20261123-3",
+    "title": "Junior Social Media Manager",
+    "company": "WeLearn",
+    "location": "Remote (Europe)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Working Nomads",
+    "url": "https://www.workingnomads.com/jobs/junior-social-media-manager-welearn-1949133",
+    "tags": [
+      "social media",
+      "content creation",
+      "remote",
+      "freelance"
+    ],
+    "desc": "Full-remote freelance role building social strategy and scheduling creator content for a Meta/Google-founded ed-tech scale-up, Europe-based."
+  },
+  {
+    "id": "auto-20261123-4",
+    "title": "Social Media Marketing Specialist",
+    "company": "Nest Step",
+    "location": "Remote (Europe)",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "We Work Remotely",
+    "url": "https://weworkremotely.com/listings/nest-step-social-media-marketing-specialist-remote-europe-based",
+    "tags": [
+      "social media",
+      "content strategy",
+      "influencer marketing",
+      "remote"
+    ],
+    "desc": "Europe-based remote role leading social media execution and content strategy for a Berlin digital marketing agency; posted this week."
+  },
+  {
     "id": "auto-20261122-1",
     "title": "Digital Marketing Assistant",
     "company": "Al Naba",
@@ -508,76 +579,6 @@
       "entertainment"
     ],
     "desc": "US-remote junior role running social campaigns for entertainment clients — content calendars, copywriting and community management; 1+ year of social/digital marketing experience preferred."
-  },
-  {
-    "id": "auto-20261116-2",
-    "title": "Junior Growth Specialist",
-    "company": "Novelship",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Remotive",
-    "url": "https://remotive.com/remote/jobs/marketing/junior-growth-specialist-4305179",
-    "tags": [
-      "growth marketing",
-      "digital marketing",
-      "remote"
-    ],
-    "desc": "Worldwide-remote junior growth role on the marketing team of a sneaker/streetwear marketplace; posted 2 days ago."
-  },
-  {
-    "id": "auto-20261116-3",
-    "title": "Sales Executive - Digital Marketing",
-    "company": "Six Senses Zighy Bay",
-    "location": "Zighy Bay, Oman",
-    "mode": "oman",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Tanqeeb",
-    "url": "https://oman.tanqeeb.com/jobs/view/20566141/sid:",
-    "tags": [
-      "digital marketing",
-      "content creation",
-      "hospitality",
-      "social media"
-    ],
-    "desc": "Oman luxury resort role developing photo, video and drone content for digital/social channels; 1-2 years experience in social media, content creation or digital marketing, hospitality preferred."
-  },
-  {
-    "id": "auto-20261116-4",
-    "title": "Digital Marketing Executive",
-    "company": "Nada Happiness Group",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "mid",
-    "pay": "OMR 250-350/month",
-    "source": "NaukriGulf",
-    "url": "https://m.naukrigulf.com/digital-marketing-executive-jobs-in-muscat-oman-in-nada-happiness-group-2-to-4-years-n-cd-125603-jid-241225000598",
-    "tags": [
-      "digital marketing",
-      "social media",
-      "seo",
-      "email marketing"
-    ],
-    "desc": "Muscat role driving online visibility, brand engagement and lead generation via social media, SEO/SEM, email and content; 2-4 years experience."
-  },
-  {
-    "id": "auto-20261116-5",
-    "title": "Digital Marketing & Social Media Specialist",
-    "company": "Confidential — via CareerBuilder",
-    "location": "Remote (USA)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "CareerBuilder",
-    "url": "https://www.careerbuilder.com/job-details/digital-marketing-social-media-specialist-remote--a9d31fc4-e2b1-45f0-95ec-d74a909d96ae",
-    "tags": [
-      "digital marketing",
-      "social media",
-      "remote"
-    ],
-    "desc": "US-remote specialist role covering social media management, digital marketing and recruitment marketing; at least 1 year of relevant experience."
   },
   {
     "id": "s1",
