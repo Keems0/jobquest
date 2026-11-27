@@ -1,5 +1,95 @@
 [
   {
+    "id": "auto-20261127-1",
+    "title": "Junior Content Writer",
+    "company": "Confidential — via VirtualVocations",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "VirtualVocations",
+    "url": "https://www.virtualvocations.com/job/junior-content-writer-3347545-i.html",
+    "tags": [
+      "content writing",
+      "remote",
+      "junior"
+    ],
+    "desc": "Full-time remote junior content writer role covering articles, fact sheets and newsletters; reviewed mid-November 2026."
+  },
+  {
+    "id": "auto-20261127-2",
+    "title": "Junior Digital Marketing Manager",
+    "company": "Somewhere",
+    "location": "Remote",
+    "mode": "remote",
+    "seniority": "junior",
+    "pay": "Up to $2,000 USD/month",
+    "source": "Jobera",
+    "url": "https://jobera.com/job/somewhere-junior-digital-marketing-manager-31647263379-ca29cbec/",
+    "tags": [
+      "digital marketing",
+      "ecommerce",
+      "meta ads",
+      "google ads",
+      "remote"
+    ],
+    "desc": "Entry-level remote role asking for 1-3 yrs digital marketing experience with Meta Ads, Google Ads, Klaviyo or Shopify; Australian business hours."
+  },
+  {
+    "id": "auto-20261127-3",
+    "title": "Content Creator (F&B Brands)",
+    "company": "Takamul National Company",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/content-creator-social-medical-executive-1756377402768",
+    "tags": [
+      "content creation",
+      "social media",
+      "oman",
+      "f&b"
+    ],
+    "desc": "Muscat F&B/restaurant group role creating content for social, web and campaigns across Instagram, TikTok, LinkedIn and YouTube."
+  },
+  {
+    "id": "auto-20261127-4",
+    "title": "Digital Media Content Creator & Marketing Specialist",
+    "company": "Confidential — via Qureos",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/digital-media-content-creator-video-grapher-1759232434122",
+    "tags": [
+      "content creation",
+      "graphic design",
+      "branding",
+      "oman"
+    ],
+    "desc": "Muscat role designing digital campaign graphics and branding materials, building visual storytelling for marketing goals."
+  },
+  {
+    "id": "auto-20261127-5",
+    "title": "Social Media & Content Creative Specialist",
+    "company": "Confidential — via Qureos",
+    "location": "Muscat, Oman",
+    "mode": "oman",
+    "seniority": "junior",
+    "pay": "Not disclosed",
+    "source": "Qureos",
+    "url": "https://app.qureos.com/jobs/social-media-content-creative-specialist-1759240472796",
+    "tags": [
+      "social media",
+      "videography",
+      "graphic design",
+      "oman"
+    ],
+    "desc": "Muscat role leading digital presence and content production, wanting ~1 yr videography and graphic design experience; bilingual English/Arabic."
+  },
+  {
     "id": "auto-20261126-1",
     "title": "Digital Marketing Coordinator",
     "company": "Winger Marketing",
@@ -485,98 +575,6 @@
       "arabic"
     ],
     "desc": "New-grad-friendly role managing online presence, content and fleet photography for a Muscat business; English & Arabic required."
-  },
-  {
-    "id": "auto-20261121-3",
-    "title": "Digital Marketing Associate",
-    "company": "Confidential — via Qureos",
-    "location": "Muscat, Oman",
-    "mode": "oman",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Qureos",
-    "url": "https://app.qureos.com/jobs/digital-marketing-associate-1771953614687",
-    "tags": [
-      "digital marketing",
-      "social media",
-      "retail"
-    ],
-    "desc": "Entry-level associate managing social media and digital campaigns for a Muscat retail chain."
-  },
-  {
-    "id": "auto-20261121-4",
-    "title": "Social Media Coordinator",
-    "company": "KYNY Group",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "$50,000-$55,000/yr",
-    "source": "Wellfound",
-    "url": "https://wellfound.com/jobs/4491976-social-media-coordinator",
-    "tags": [
-      "social media",
-      "content",
-      "remote",
-      "entry level"
-    ],
-    "desc": "Remote, no-experience-required role managing and growing the company's social presence across platforms."
-  },
-  {
-    "id": "auto-20261121-5",
-    "title": "Jr. Content Writer",
-    "company": "Beyond Border",
-    "location": "Remote (Everywhere)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "Not disclosed",
-    "source": "Wellfound",
-    "url": "https://wellfound.com/jobs/4536687-jr-content-writer",
-    "tags": [
-      "content writing",
-      "copywriting",
-      "remote",
-      "junior"
-    ],
-    "desc": "Worldwide-remote junior content writer role (0-2 yrs) open to early-career candidates."
-  },
-  {
-    "id": "auto-20261120-1",
-    "title": "Marketing Coordinator (Part-Time)",
-    "company": "Maze",
-    "location": "Remote",
-    "mode": "remote",
-    "seniority": "entry",
-    "pay": "Not disclosed",
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158753-marketing-coordinator-part-time",
-    "tags": [
-      "marketing",
-      "content",
-      "social media",
-      "events",
-      "remote",
-      "part-time"
-    ],
-    "desc": "Remote part-time (10-20 hrs/wk) entry-level role covering events, content and social media scheduling; suits students and early-career candidates."
-  },
-  {
-    "id": "auto-20261120-2",
-    "title": "Digital Marketing Specialist (Organic Growth & Lead Generation)",
-    "company": "Reframe Space Inc.",
-    "location": "Remote (Worldwide)",
-    "mode": "remote",
-    "seniority": "junior",
-    "pay": "$25,000-$48,999/yr",
-    "source": "We Work Remotely",
-    "url": "https://weworkremotely.com/remote-jobs/reframe-space-inc-digital-marketing-specialist-organic-growth-and-lead-generation",
-    "tags": [
-      "digital marketing",
-      "lead generation",
-      "social media",
-      "email marketing",
-      "remote"
-    ],
-    "desc": "Worldwide-remote role at a US office-furniture company driving organic growth, LinkedIn outreach and lead generation; freelance/internship/project experience welcomed, open to early-career applicants."
   },
   {
     "id": "s1",
